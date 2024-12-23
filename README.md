@@ -69,3 +69,7 @@ gitClock is a Visual Studio Code extension designed to help developers maintain 
 | 12/23/2024, 6:06:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
 | 12/23/2024, 6:06:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 12/23/2024, 6:06:49 PM | server.js | 4 Additions & 4 Deletions|
+| 12/23/2024, 6:36:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
+| 12/23/2024, 6:36:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
+| 12/23/2024, 6:36:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 12/23/2024, 6:36:49 PM | server.js | 4 Additions & 4 Deletions|
