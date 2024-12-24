@@ -10,3 +10,4 @@ This file logs the changes made on 12/24/2024.
 | 12/24/2024, 6:42:07 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
 | 12/24/2024, 6:42:07 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 12/24/2024, 6:42:07 PM | server.js | 4 Additions & 4 Deletions|
+| 12/24/2024, 7:36:53 PM | backend/ | 0 Additions & 0 Deletions|
