@@ -122,7 +122,12 @@ gitClock is a Visual Studio Code extension designed to help developers maintain 
 | 12/24/2024, 2:32:39 PM | src/Screens/QuickBookScreen.js | 11 Additions & 10 Deletions|
 | 12/24/2024, 2:32:39 PM | src/Screens/SuccessScreen.js | 20 Additions & 4 Deletions|
 | 12/24/2024, 2:32:39 PM | src/Screens/WelcomeScreen.js | 5 Additions & 2 Deletions|
-| 12/24/2024, 2:58:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/24/2024, 2:58:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/24/2024, 2:58:49 PM | logs/audit.json | 10 Additions & 10 Deletions|
-| 12/24/2024, 2:58:49 PM | server.js | 4 Additions & 4 Deletions|
+| 12/24/2024, 3:02:39 PM | src/App.js | 10 Additions & 4 Deletions|
+| 12/24/2024, 3:02:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
+| 12/24/2024, 3:02:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 41 Additions & 11 Deletions|
+| 12/24/2024, 3:02:39 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
+| 12/24/2024, 3:02:39 PM | src/Context/MeetingObjectContext.js | 2 Additions & 2 Deletions|
+| 12/24/2024, 3:02:39 PM | src/Screens/FutureBookOption.js | 14 Additions & 15 Deletions|
+| 12/24/2024, 3:02:39 PM | src/Screens/QuickBookScreen.js | 11 Additions & 10 Deletions|
+| 12/24/2024, 3:02:39 PM | src/Screens/SuccessScreen.js | 20 Additions & 4 Deletions|
+| 12/24/2024, 3:02:39 PM | src/Screens/WelcomeScreen.js | 5 Additions & 2 Deletions|
