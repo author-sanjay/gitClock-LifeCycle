@@ -24,3 +24,7 @@ This file logs the changes made on 12/25/2024.
 | 12/25/2024, 12:54:34 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
 | 12/25/2024, 12:54:34 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 12/25/2024, 12:54:34 PM | server.js | 4 Additions & 4 Deletions|
+| 12/25/2024, 1:24:34 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
+| 12/25/2024, 1:24:34 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
+| 12/25/2024, 1:24:34 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 12/25/2024, 1:24:34 PM | server.js | 4 Additions & 4 Deletions|
