@@ -104,3 +104,4 @@ This file logs the changes made on 12/26/2024.
 | 12/26/2024, 6:26:04 PM | src/ | 0 Additions & 0 Deletions|
 | 12/26/2024, 6:26:04 PM | tailwind.config.js | 0 Additions & 0 Deletions|
 | 12/26/2024, 6:26:04 PM | vite.config.js | 0 Additions & 0 Deletions|
+| 12/26/2024, 7:38:35 PM | backend/ | 0 Additions & 0 Deletions|
