@@ -106,3 +106,7 @@ This file logs the changes made on 12/28/2024.
 | 12/28/2024, 3:58:59 PM | src/Context/ | 0 Additions & 0 Deletions|
 | 12/28/2024, 4:28:59 PM | src/Screens/Dashboard.jsx | 8 Additions & 1 Deletions|
 | 12/28/2024, 4:28:59 PM | src/Components/Dashbord/OrderList.jsx | 0 Additions & 0 Deletions|
+| 12/28/2024, 4:58:59 PM | src/Screens/Dashboard.jsx | 13 Additions & 1 Deletions|
+| 12/28/2024, 4:58:59 PM | src/Components/Dashbord/ARModelList.jsx | 0 Additions & 0 Deletions|
+| 12/28/2024, 4:58:59 PM | src/Components/Dashbord/OrderList.jsx | 0 Additions & 0 Deletions|
+| 12/28/2024, 4:58:59 PM | src/Components/Dashbord/QRList.jsx | 0 Additions & 0 Deletions|
