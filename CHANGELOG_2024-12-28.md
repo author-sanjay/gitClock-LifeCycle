@@ -6,3 +6,7 @@ This file logs the changes made on 12/28/2024.
 |------------------------|-----------------------------------|-----------------------------|
 | 12/28/2024, 10:11:06 AM | src/Components/Dashbord/UserOptions.jsx | 21 Additions & 11 Deletions |
 | 12/28/2024, 10:11:06 AM | src/Components/Dashbord/DashBoardHeader.jsx | 0 Additions & 0 Deletions |
+| 12/28/2024, 10:41:06 AM | src/Components/Dashbord/SingleUserOption.jsx | 2 Additions & 2 Deletions|
+| 12/28/2024, 10:41:06 AM | src/Components/Dashbord/UserOptions.jsx | 32 Additions & 22 Deletions|
+| 12/28/2024, 10:41:06 AM | src/Screens/Dashboard.jsx | 4 Additions & 0 Deletions|
+| 12/28/2024, 10:41:06 AM | src/Components/Dashbord/DashBoardHeader.jsx | 0 Additions & 0 Deletions|
