@@ -73,3 +73,4 @@ This file logs the changes made on 12/29/2024.
 | 12/29/2024, 4:26:05 PM | src/Components/Dashbord/Lists/QRList.jsx | 47 Additions & 66 Deletions|
 | 12/29/2024, 4:26:05 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 122 Additions & 3 Deletions|
 | 12/29/2024, 4:26:05 PM | src/Screens/OrderDetailsScreen.jsx | 1 Additions & 1 Deletions|
+| 12/29/2024, 10:09:29 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 1 Additions & 0 Deletions|
