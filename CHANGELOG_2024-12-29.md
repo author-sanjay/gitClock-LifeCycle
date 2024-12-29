@@ -53,3 +53,7 @@ This file logs the changes made on 12/29/2024.
 | 12/29/2024, 1:56:05 PM | src/Components/Theme/ | 0 Additions & 0 Deletions|
 | 12/29/2024, 1:56:05 PM | src/Context/OrderContext.jsx | 0 Additions & 0 Deletions|
 | 12/29/2024, 2:26:05 PM | src/Components/Dashbord/DashBoardNav.jsx | 4 Additions & 1 Deletions|
+| 12/29/2024, 2:56:05 PM | package-lock.json | 72 Additions & 0 Deletions|
+| 12/29/2024, 2:56:05 PM | package.json | 1 Additions & 0 Deletions|
+| 12/29/2024, 2:56:05 PM | src/Components/Dashbord/DashBoardNav.jsx | 4 Additions & 1 Deletions|
+| 12/29/2024, 2:56:05 PM | src/Components/Dashbord/Lists/QRList.jsx | 13 Additions & 46 Deletions|
