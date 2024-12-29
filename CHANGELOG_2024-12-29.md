@@ -75,3 +75,4 @@ This file logs the changes made on 12/29/2024.
 | 12/29/2024, 4:26:05 PM | src/Screens/OrderDetailsScreen.jsx | 1 Additions & 1 Deletions|
 | 12/29/2024, 10:09:29 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 1 Additions & 0 Deletions|
 | 12/29/2024, 10:39:24 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 61 Additions & 5 Deletions|
+| 12/29/2024, 11:09:27 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 61 Additions & 5 Deletions|
