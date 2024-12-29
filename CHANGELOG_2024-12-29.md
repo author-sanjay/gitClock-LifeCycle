@@ -76,3 +76,4 @@ This file logs the changes made on 12/29/2024.
 | 12/29/2024, 10:09:29 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 1 Additions & 0 Deletions|
 | 12/29/2024, 10:39:24 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 61 Additions & 5 Deletions|
 | 12/29/2024, 11:09:27 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 61 Additions & 5 Deletions|
+| 12/29/2024, 11:39:26 PM | src/Components/Order/ExistingOrder/OrderDetails.jsx | 66 Additions & 5 Deletions|
