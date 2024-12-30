@@ -2,7 +2,7 @@
 
 GitClock is an automation extension for Visual Studio Code that ensures your GitHub contributions remain active
 
-![Extension Logo](./logo.jpeg) 
+![Extension Logo](https://github.com/author-sanjay/gitclock/raw/HEAD/logo.jpeg) 
 
 ## Features
 
