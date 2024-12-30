@@ -134,3 +134,5 @@ This file logs the changes made on 12/30/2024.
 | 12/30/2024, 7:13:33 PM | ../../../snap/ | 0 Additions & 0 Deletions|
 | 12/30/2024, 10:25:55 PM | src/Components/Dispute/ViewDispute.jsx | 3 Additions & 3 Deletions|
 | 12/30/2024, 10:25:55 PM | src/Screens/DisputeScreen.jsx | 4 Additions & 2 Deletions|
+| 12/30/2024, 10:55:55 PM | src/Components/Dispute/ViewDispute.jsx | 3 Additions & 3 Deletions|
+| 12/30/2024, 10:55:55 PM | src/Screens/DisputeScreen.jsx | 4 Additions & 2 Deletions|
