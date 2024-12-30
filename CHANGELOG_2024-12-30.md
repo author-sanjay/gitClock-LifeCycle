@@ -136,3 +136,7 @@ This file logs the changes made on 12/30/2024.
 | 12/30/2024, 10:25:55 PM | src/Screens/DisputeScreen.jsx | 4 Additions & 2 Deletions|
 | 12/30/2024, 10:55:55 PM | src/Components/Dispute/ViewDispute.jsx | 3 Additions & 3 Deletions|
 | 12/30/2024, 10:55:55 PM | src/Screens/DisputeScreen.jsx | 4 Additions & 2 Deletions|
+| 12/30/2024, 11:25:55 PM | src/Components/Dispute/ViewDispute.jsx | 16 Additions & 3 Deletions|
+| 12/30/2024, 11:25:55 PM | src/Screens/DisputeScreen.jsx | 13 Additions & 4 Deletions|
+| 12/30/2024, 11:25:55 PM | src/Screens/Home.jsx | 1 Additions & 1 Deletions|
+| 12/30/2024, 11:25:55 PM | src/Components/Dispute/DisputeHeader.jsx | 0 Additions & 0 Deletions|
