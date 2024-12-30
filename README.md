@@ -1,157 +1,49 @@
-# GitClock LifeCycle
+# Git Clock
 
-gitClock is a Visual Studio Code extension designed to help developers maintain a record of their contributions within a repository, even when they are not committing directly to the main branch. This extension tracks changes to files across all branches and provides a comprehensive list of file modifications, ensuring that every contribution is documented. Note: The change log only includes file names and does not contain any private data or commit details, respecting user privacy.
+GitClock is an automation extension for Visual Studio Code that ensures your GitHub contributions remain active
 
-| Time (UTC)             | Files Modified                    | Changes (Addition/Deletion) |
-|------------------------|-----------------------------------|-----------------------------|
-| 12/22/2024, 10:24:59 PM | File2.txt | undefined/undefined |
-| 12/22/2024, 10:24:59 PM | hi.txt | undefined/undefined |
-| 12/22/2024, 10:28:54 PM | M | undefined/undefined |
-| 12/22/2024, 10:38:10 PM | M | 0/0 |
-| 12/22/2024, 10:50:30 PM | File2.txt | 7/2 |
-| 12/22/2024, 11:02:19 PM | File2.txt | 10 Additions & 2 Deletions|
-| 12/22/2024, 11:02:19 PM | hi.txt | 2 Additions & 0 Deletions|
-| 12/22/2024, 11:08:21 PM | File2.txt | 10 Additions & 2 Deletions|
-| 12/22/2024, 11:08:21 PM | hi.txt | 6 Additions & 0 Deletions|
-| 12/22/2024, 11:10:20 PM | File2.txt | 10 Additions & 2 Deletions|
-| 12/22/2024, 11:10:20 PM | hi.txt | 6 Additions & 0 Deletions|
-| 12/23/2024, 11:36:49 AM | api/controllers/screenusers.controller.js | 5 Additions & 5 Deletions|
-| 12/23/2024, 11:36:49 AM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 11:36:49 AM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 12:06:50 PM | api/controllers/screenusers.controller.js | 5 Additions & 5 Deletions|
-| 12/23/2024, 12:06:50 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 12:06:50 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 12:36:51 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 12:36:51 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 12:36:51 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 12:36:51 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 1:06:50 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 1:06:50 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 1:06:50 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 1:06:50 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 1:36:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 1:36:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 1:36:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 1:36:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 2:06:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 2:06:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 2:06:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 2:06:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 2:36:54 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 2:36:54 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 2:36:54 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 2:36:54 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 3:06:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 3:06:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 3:06:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 3:06:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 3:36:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 3:36:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 3:36:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 3:36:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 4:06:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 4:06:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 4:06:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 4:06:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 4:36:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 4:36:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 4:36:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 4:36:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 5:06:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 5:06:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 5:06:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 5:06:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 5:36:50 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 5:36:50 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 5:36:50 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 5:36:50 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 6:06:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 6:06:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 6:06:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 6:06:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/23/2024, 6:36:49 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/23/2024, 6:36:49 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/23/2024, 6:36:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 12/23/2024, 6:36:49 PM | server.js | 4 Additions & 4 Deletions|
-| 12/24/2024, 10:58:48 AM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/24/2024, 10:58:48 AM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/24/2024, 10:58:48 AM | logs/audit.json | 10 Additions & 10 Deletions|
-| 12/24/2024, 10:58:48 AM | server.js | 4 Additions & 4 Deletions|
-| 12/24/2024, 11:32:39 AM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 11:32:39 AM | src/Components/Sections/BookingDetailsAndInput.js | 80 Additions & 10 Deletions|
-| 12/24/2024, 11:32:39 AM | src/Screens/FutureBookOption.js | 2 Additions & 10 Deletions|
-| 12/24/2024, 11:32:39 AM | src/Screens/QuickBookScreen.js | 7 Additions & 5 Deletions|
-| 12/24/2024, 12:02:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 12:02:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 44 Additions & 11 Deletions|
-| 12/24/2024, 12:02:39 PM | src/Screens/FutureBookOption.js | 2 Additions & 10 Deletions|
-| 12/24/2024, 12:02:39 PM | src/Screens/QuickBookScreen.js | 8 Additions & 6 Deletions|
-| 12/24/2024, 12:32:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 12:32:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 41 Additions & 11 Deletions|
-| 12/24/2024, 12:32:39 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
-| 12/24/2024, 12:32:39 PM | src/Screens/FutureBookOption.js | 10 Additions & 10 Deletions|
-| 12/24/2024, 12:32:39 PM | src/Screens/QuickBookScreen.js | 8 Additions & 6 Deletions|
-| 12/24/2024, 1:02:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 1:02:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 41 Additions & 11 Deletions|
-| 12/24/2024, 1:02:39 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
-| 12/24/2024, 1:02:39 PM | src/Screens/FutureBookOption.js | 10 Additions & 10 Deletions|
-| 12/24/2024, 1:02:39 PM | src/Screens/QuickBookScreen.js | 8 Additions & 6 Deletions|
-| 12/24/2024, 1:32:39 PM | src/App.js | 10 Additions & 4 Deletions|
-| 12/24/2024, 1:32:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 1:32:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 41 Additions & 11 Deletions|
-| 12/24/2024, 1:32:39 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
-| 12/24/2024, 1:32:39 PM | src/Context/MeetingObjectContext.js | 2 Additions & 2 Deletions|
-| 12/24/2024, 1:32:39 PM | src/Screens/FutureBookOption.js | 14 Additions & 15 Deletions|
-| 12/24/2024, 1:32:39 PM | src/Screens/QuickBookScreen.js | 11 Additions & 10 Deletions|
-| 12/24/2024, 1:32:39 PM | src/Screens/SuccessScreen.js | 20 Additions & 4 Deletions|
-| 12/24/2024, 1:32:39 PM | src/Screens/WelcomeScreen.js | 5 Additions & 2 Deletions|
-| 12/24/2024, 2:02:39 PM | src/App.js | 10 Additions & 4 Deletions|
-| 12/24/2024, 2:02:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 2:02:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 41 Additions & 11 Deletions|
-| 12/24/2024, 2:02:39 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
-| 12/24/2024, 2:02:39 PM | src/Context/MeetingObjectContext.js | 2 Additions & 2 Deletions|
-| 12/24/2024, 2:02:39 PM | src/Screens/FutureBookOption.js | 14 Additions & 15 Deletions|
-| 12/24/2024, 2:02:39 PM | src/Screens/QuickBookScreen.js | 11 Additions & 10 Deletions|
-| 12/24/2024, 2:02:39 PM | src/Screens/SuccessScreen.js | 20 Additions & 4 Deletions|
-| 12/24/2024, 2:02:39 PM | src/Screens/WelcomeScreen.js | 5 Additions & 2 Deletions|
-| 12/24/2024, 2:32:39 PM | src/App.js | 10 Additions & 4 Deletions|
-| 12/24/2024, 2:32:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 2:32:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 41 Additions & 11 Deletions|
-| 12/24/2024, 2:32:39 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
-| 12/24/2024, 2:32:39 PM | src/Context/MeetingObjectContext.js | 2 Additions & 2 Deletions|
-| 12/24/2024, 2:32:39 PM | src/Screens/FutureBookOption.js | 14 Additions & 15 Deletions|
-| 12/24/2024, 2:32:39 PM | src/Screens/QuickBookScreen.js | 11 Additions & 10 Deletions|
-| 12/24/2024, 2:32:39 PM | src/Screens/SuccessScreen.js | 20 Additions & 4 Deletions|
-| 12/24/2024, 2:32:39 PM | src/Screens/WelcomeScreen.js | 5 Additions & 2 Deletions|
-| 12/24/2024, 3:02:39 PM | src/App.js | 10 Additions & 4 Deletions|
-| 12/24/2024, 3:02:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 3:02:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 41 Additions & 11 Deletions|
-| 12/24/2024, 3:02:39 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
-| 12/24/2024, 3:02:39 PM | src/Context/MeetingObjectContext.js | 2 Additions & 2 Deletions|
-| 12/24/2024, 3:02:39 PM | src/Screens/FutureBookOption.js | 14 Additions & 15 Deletions|
-| 12/24/2024, 3:02:39 PM | src/Screens/QuickBookScreen.js | 11 Additions & 10 Deletions|
-| 12/24/2024, 3:02:39 PM | src/Screens/SuccessScreen.js | 20 Additions & 4 Deletions|
-| 12/24/2024, 3:02:39 PM | src/Screens/WelcomeScreen.js | 5 Additions & 2 Deletions|
-| 12/24/2024, 3:32:39 PM | src/App.js | 10 Additions & 4 Deletions|
-| 12/24/2024, 3:32:39 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 3:32:39 PM | src/Components/Sections/BookingDetailsAndInput.js | 33 Additions & 10 Deletions|
-| 12/24/2024, 3:32:39 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
-| 12/24/2024, 3:32:39 PM | src/Context/MeetingObjectContext.js | 2 Additions & 2 Deletions|
-| 12/24/2024, 3:32:39 PM | src/Screens/FutureBookOption.js | 15 Additions & 15 Deletions|
-| 12/24/2024, 3:32:39 PM | src/Screens/QuickBookScreen.js | 11 Additions & 10 Deletions|
-| 12/24/2024, 3:32:39 PM | src/Screens/SuccessScreen.js | 20 Additions & 4 Deletions|
-| 12/24/2024, 3:32:39 PM | src/Screens/WelcomeScreen.js | 5 Additions & 2 Deletions|
-| 12/24/2024, 4:02:40 PM | src/App.js | 10 Additions & 4 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Components/InputFields/MeetingDetailsInput.js | 7 Additions & 3 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 2 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Components/Sections/BookingDetailsAndInput.js | 95 Additions & 10 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Components/Sections/ScrollableCardGrid.js | 3 Additions & 5 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Context/MeetingObjectContext.js | 2 Additions & 2 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Screens/FutureBookOption.js | 15 Additions & 15 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Screens/QuickBookScreen.js | 11 Additions & 10 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Screens/SuccessScreen.js | 20 Additions & 4 Deletions|
-| 12/24/2024, 4:02:40 PM | src/Screens/WelcomeScreen.js | 5 Additions & 2 Deletions|
-| 12/24/2024, 4:02:40 PM | src/index.css | 9 Additions & 1 Deletions|
-| 12/24/2024, 4:28:48 PM | api/controllers/screenusers.controller.js | 6 Additions & 6 Deletions|
-| 12/24/2024, 4:28:48 PM | api/swagger/swagger.yaml | 12 Additions & 12 Deletions|
-| 12/24/2024, 4:28:48 PM | logs/audit.json | 10 Additions & 10 Deletions|
-| 12/24/2024, 4:28:48 PM | server.js | 4 Additions & 4 Deletions|
+![Extension Logo](./logo.jpeg) 
+
+## Features
+
+- **Automatic Commit Every 30 Minutes**: The extension automatically commits changes every 30 minutes to ensure that your work is regularly logged on main branch so that your git contribution is counted.
+- **Sync Logs in Main Branch**: All your sync logs are stored in the `main` branch, ensuring that your contributions are tracked, even if you're working on a different branch.
+- **Keeps Track of Your Hard Work**: By syncing your changes to the main branch, your contributions are always counted in the repository history, providing visibility of your continuous progress.
+- **Works on Any Branch**: No need to worry about not being on the main branch. `gitClock` ensures your work is recorded regardless of the branch you're working on.
+- **Customizable Commit Messages**: The commit messages are automatically generated to reflect the time and sync details, making your commit history clean and organized.
+- **Lightweight and Simple**: The extension works quietly in the background without interrupting your workflow, only committing changes when necessary.
+
+
+## Installation
+1. **Manually:**
+   - Download the `.vsix` file from the release page or https://open-vsx.org/extension/authorSanju/gitclock.
+   - In Visual Studio Code, go to the Extensions view.
+   - Click the three dots on the top right and select **Install from VSIX**.
+   - Browse and select the `.vsix` file.
+   - Press `Ctrl+Shift+P` to open command pallete
+   - Write `GitClock : Authenticate`
+   - Login
+   - All Done
+
+2. **VS Code:**
+    - We are trying to get our extension on VS code Marketplace
+
+
+## Usage
+1. After installation, activate the extension via the **Command Palette** (`Ctrl+Shift+P` / `Cmd+Shift+P`).
+2. Search for `GitClock: Authenticate` and select it to authenticate the extension with the profile where you want your contributions to be counted.
+
+
+
+## Contributing
+- Fork the repository.
+- Clone your fork: git clone https://github.com/your-username/your-extension-name.git
+- Install dependencies: npm install
+- Make your changes.
+- Test extension
+- Commit and push your changes.
+- Create a pull request with a description of what you've changed.
+
+
+## License
+This extension is licensed under the MIT License. See LICENSE for more details.
