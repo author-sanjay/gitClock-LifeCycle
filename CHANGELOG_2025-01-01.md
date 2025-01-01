@@ -236,3 +236,4 @@ This file logs the changes made on 1/1/2025.
 | 1/1/2025, 6:01:25 PM | "src/targets .mind" | 0 Additions & 0 Deletions|
 | 1/1/2025, 6:01:25 PM | src/targets.mind | 0 Additions & 0 Deletions|
 | 1/1/2025, 6:01:25 PM | tailwind.config.js | 0 Additions & 0 Deletions|
+| 1/1/2025, 9:53:02 PM | src/Screens/UploadARScreen.jsx | 152 Additions & 98 Deletions|
