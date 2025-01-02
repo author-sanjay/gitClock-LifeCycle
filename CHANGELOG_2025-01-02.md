@@ -16,3 +16,7 @@ This file logs the changes made on 1/2/2025.
 | 1/2/2025, 11:47:42 AM | public/target1.mind | 0 Additions & 0 Deletions|
 | 1/2/2025, 11:47:42 AM | public/targets2.mind | 0 Additions & 0 Deletions|
 | 1/2/2025, 11:47:42 AM | src/assets/cardimg.jpg | 0 Additions & 0 Deletions|
+| 1/2/2025, 12:46:51 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 1/2/2025, 12:46:51 PM | config/config.json | 1 Additions & 1 Deletions|
+| 1/2/2025, 12:46:51 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/2/2025, 12:46:51 PM | server.js | 4 Additions & 4 Deletions|
