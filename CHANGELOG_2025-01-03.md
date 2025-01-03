@@ -80,3 +80,11 @@ This file logs the changes made on 1/3/2025.
 | 1/3/2025, 5:47:58 PM | "src/Assets/Flash On.png" | 0 Additions & 0 Deletions|
 | 1/3/2025, 5:47:58 PM | src/OutlookUI/ | 0 Additions & 0 Deletions|
 | 1/3/2025, 5:47:58 PM | tailwind.config.js | 0 Additions & 0 Deletions|
+| 1/3/2025, 6:18:00 PM | package-lock.json | 87 Additions & 63 Deletions|
+| 1/3/2025, 6:18:00 PM | package.json | 4 Additions & 2 Deletions|
+| 1/3/2025, 6:18:00 PM | src/App.js | 2 Additions & 0 Deletions|
+| 1/3/2025, 6:18:00 PM | yarn.lock | 77 Additions & 67 Deletions|
+| 1/3/2025, 6:18:00 PM | src/Assets/Audit.png | 0 Additions & 0 Deletions|
+| 1/3/2025, 6:18:00 PM | "src/Assets/Flash On.png" | 0 Additions & 0 Deletions|
+| 1/3/2025, 6:18:00 PM | src/OutlookUI/ | 0 Additions & 0 Deletions|
+| 1/3/2025, 6:18:00 PM | tailwind.config.js | 0 Additions & 0 Deletions|
