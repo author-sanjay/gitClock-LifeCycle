@@ -534,3 +534,5 @@ This file logs the changes made on 1/4/2025.
 | 1/4/2025, 7:18:45 PM | ../../../holoCard/ | 0 Additions & 0 Deletions|
 | 1/4/2025, 7:18:45 PM | ../../../mind-ar-js-react/ | 0 Additions & 0 Deletions|
 | 1/4/2025, 7:18:45 PM | ../../../snap/ | 0 Additions & 0 Deletions|
+| 1/4/2025, 7:33:14 PM | backend/ | 0 Additions & 0 Deletions|
+| 1/4/2025, 7:33:14 PM | test/ | 0 Additions & 0 Deletions|
