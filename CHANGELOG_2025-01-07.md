@@ -38,3 +38,7 @@ This file logs the changes made on 1/7/2025.
 | 1/7/2025, 4:33:29 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 1/7/2025, 4:33:29 PM | server.js | 4 Additions & 4 Deletions|
 | 1/7/2025, 5:03:37 PM | src/Components/Home/Components/Time.css | 0 Additions & 1 Deletions|
+| 1/7/2025, 5:33:25 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 1/7/2025, 5:33:25 PM | api/swagger/swagger.yaml | 6 Additions & 6 Deletions|
+| 1/7/2025, 5:33:25 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/7/2025, 5:33:25 PM | server.js | 4 Additions & 4 Deletions|
