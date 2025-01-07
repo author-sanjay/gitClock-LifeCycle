@@ -18,3 +18,7 @@ This file logs the changes made on 1/7/2025.
 | 1/7/2025, 12:40:45 PM | src/Components/NavigatorScreen/Components/Modal/ModalRight/Banquet/NewPreviewUI/NewPreviewLeftCustomisationData.js | 6 Additions & 9 Deletions|
 | 1/7/2025, 12:40:45 PM | src/Components/NavigatorScreen/Components/Modal/ModalRight/Banquet/NewPreviewUI/NewPreviewNewCard.js | 11 Additions & 8 Deletions|
 | 1/7/2025, 12:40:45 PM | src/Components/NavigatorScreen/Components/Modal/ModelLeft/LeftBody.js | 1 Additions & 0 Deletions|
+| 1/7/2025, 1:09:54 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 1/7/2025, 1:09:54 PM | api/swagger/swagger.yaml | 6 Additions & 6 Deletions|
+| 1/7/2025, 1:09:54 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/7/2025, 1:09:54 PM | server.js | 4 Additions & 4 Deletions|
