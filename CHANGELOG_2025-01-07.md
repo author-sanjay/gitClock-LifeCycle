@@ -33,3 +33,7 @@ This file logs the changes made on 1/7/2025.
 | 1/7/2025, 4:03:36 PM | src/Components/NavigatorScreen/Components/Modal/ModelLeft/LeftBody.js | 1 Additions & 0 Deletions|
 | 1/7/2025, 4:03:36 PM | src/Components/Preview/Preview.js | 251 Additions & 236 Deletions|
 | 1/7/2025, 4:03:36 PM | src/Components/Preview/PreviewBanner.js | 40 Additions & 35 Deletions|
+| 1/7/2025, 4:33:29 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 1/7/2025, 4:33:29 PM | api/swagger/swagger.yaml | 6 Additions & 6 Deletions|
+| 1/7/2025, 4:33:29 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/7/2025, 4:33:29 PM | server.js | 4 Additions & 4 Deletions|
