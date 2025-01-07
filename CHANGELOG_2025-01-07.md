@@ -23,3 +23,7 @@ This file logs the changes made on 1/7/2025.
 | 1/7/2025, 1:10:45 PM | src/Components/NavigatorScreen/Components/Modal/ModalRight/Banquet/NewPreviewUI/NewPreviewLeftCustomisationData.js | 6 Additions & 9 Deletions|
 | 1/7/2025, 1:10:45 PM | src/Components/NavigatorScreen/Components/Modal/ModalRight/Banquet/NewPreviewUI/NewPreviewNewCard.js | 11 Additions & 8 Deletions|
 | 1/7/2025, 1:10:45 PM | src/Components/NavigatorScreen/Components/Modal/ModelLeft/LeftBody.js | 1 Additions & 0 Deletions|
+| 1/7/2025, 3:33:38 PM | package-lock.json | 9 Additions & 0 Deletions|
+| 1/7/2025, 3:33:39 PM | package.json | 1 Additions & 0 Deletions|
+| 1/7/2025, 3:33:39 PM | src/Components/NavigatorScreen/Components/Modal/ModalRight/Banquet/LinkMeetingBoard.js | 80 Additions & 45 Deletions|
+| 1/7/2025, 3:33:39 PM | src/Components/NavigatorScreen/Components/Modal/ModelLeft/LeftBody.js | 1 Additions & 0 Deletions|
