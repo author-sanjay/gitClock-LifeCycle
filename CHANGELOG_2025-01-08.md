@@ -60,3 +60,5 @@ This file logs the changes made on 1/8/2025.
 | 1/8/2025, 8:23:57 PM | src/Components/NavigatorScreen/Components/Modal/ModalRight/Banquet/NewPreviewUI/NewNavigatorRightPreviewScreen.js | 1 Additions & 1 Deletions|
 | 1/8/2025, 8:23:57 PM | src/Components/NavigatorScreen/Components/Modal/ModalRight/Banquet/NewPreviewUI/NewPreviewRightEditor.js | 2 Additions & 2 Deletions|
 | 1/8/2025, 8:23:57 PM | src/Components/NavigatorScreen/Components/Modal/ModalRight/BookModelRight.js | 2 Additions & 0 Deletions|
+| 1/8/2025, 8:53:42 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
+| 1/8/2025, 8:53:42 PM | server.js | 4 Additions & 4 Deletions|
