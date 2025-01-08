@@ -21,3 +21,7 @@ This file logs the changes made on 1/8/2025.
 | 1/8/2025, 12:45:22 PM | api/swagger/swagger.yaml | 20 Additions & 20 Deletions|
 | 1/8/2025, 12:45:22 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 1/8/2025, 12:45:22 PM | server.js | 4 Additions & 4 Deletions|
+| 1/8/2025, 1:15:22 PM | api/controllers/screenusers.controller.js | 9 Additions & 9 Deletions|
+| 1/8/2025, 1:15:22 PM | api/swagger/swagger.yaml | 20 Additions & 20 Deletions|
+| 1/8/2025, 1:15:22 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 1/8/2025, 1:15:22 PM | server.js | 4 Additions & 4 Deletions|
