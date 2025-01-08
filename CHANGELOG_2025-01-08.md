@@ -57,3 +57,5 @@ This file logs the changes made on 1/8/2025.
 | 1/8/2025, 7:26:34 PM | api/swagger/swagger.yaml | 6 Additions & 6 Deletions|
 | 1/8/2025, 7:26:34 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 1/8/2025, 7:26:34 PM | server.js | 4 Additions & 4 Deletions|
+| 1/8/2025, 8:23:41 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
+| 1/8/2025, 8:23:41 PM | server.js | 4 Additions & 4 Deletions|
