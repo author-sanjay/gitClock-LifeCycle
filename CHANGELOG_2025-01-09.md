@@ -13,3 +13,6 @@ This file logs the changes made on 1/9/2025.
 | 1/9/2025, 4:56:30 PM | src/Assets/Microsoft.png | 0 Additions & 0 Deletions |
 | 1/9/2025, 4:56:30 PM | src/Assets/microsoft.svg | 0 Additions & 0 Deletions |
 | 1/9/2025, 4:56:30 PM | src/OutlookUI/OutLookLoginScreen.jsx | 0 Additions & 0 Deletions |
+| 1/9/2025, 5:26:29 PM | src/OutlookUI/OutLookScreen.jsx | 0 Additions & 1 Deletions|
+| 1/9/2025, 5:26:29 PM | src/OutlookUI/OutLookScreenAssignRoom.jsx | 19 Additions & 21 Deletions|
+| 1/9/2025, 5:26:29 PM | src/OutlookUI/OutLookScreenQuickBook.jsx | 3 Additions & 4 Deletions|
