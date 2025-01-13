@@ -20,3 +20,4 @@ This file logs the changes made on 1/13/2025.
 | 1/14/2025, 12:11:43 AM | mvnw.cmd | 0 Additions & 0 Deletions|
 | 1/14/2025, 12:11:43 AM | pom.xml | 0 Additions & 0 Deletions|
 | 1/14/2025, 12:11:43 AM | src/ | 0 Additions & 0 Deletions|
+| 1/14/2025, 12:19:09 AM | src/App.js | 2 Additions & 0 Deletions|
