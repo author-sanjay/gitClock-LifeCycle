@@ -14,3 +14,6 @@ This file logs the changes made on 1/14/2025.
 | 1/14/2025, 11:36:09 AM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
 | 1/14/2025, 11:36:09 AM | logs/audit.json | 5 Additions & 5 Deletions|
 | 1/14/2025, 11:36:09 AM | server.js | 4 Additions & 4 Deletions|
+| 1/14/2025, 12:21:57 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 1/14/2025, 12:21:57 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/14/2025, 12:21:57 PM | server.js | 4 Additions & 4 Deletions|
