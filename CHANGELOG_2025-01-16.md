@@ -41,3 +41,7 @@ This file logs the changes made on 1/16/2025.
 | 1/16/2025, 6:01:32 PM | debug.log | 3 Additions & 0 Deletions|
 | 1/16/2025, 6:31:32 PM | debug.log | 3 Additions & 0 Deletions|
 | 1/16/2025, 7:01:32 PM | debug.log | 3 Additions & 0 Deletions|
+| 1/16/2025, 7:25:36 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 1/16/2025, 7:25:36 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/16/2025, 7:25:36 PM | server.js | 4 Additions & 4 Deletions|
+| 1/16/2025, 7:25:36 PM | services/template.service.js | 2 Additions & 2 Deletions|
