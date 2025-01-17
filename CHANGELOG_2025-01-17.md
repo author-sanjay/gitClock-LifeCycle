@@ -59,3 +59,7 @@ This file logs the changes made on 1/17/2025.
 | 1/17/2025, 5:30:29 PM | config/default.json | 1 Additions & 1 Deletions|
 | 1/17/2025, 5:30:29 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 1/17/2025, 5:30:29 PM | server.js | 1 Additions & 1 Deletions|
+| 1/17/2025, 5:50:03 PM | debug.log | 9 Additions & 0 Deletions|
+| 1/17/2025, 5:50:03 PM | src/OutlookUI/OutLookLoginScreen.jsx | 1 Additions & 1 Deletions|
+| 1/17/2025, 5:50:03 PM | src/OutlookUI/OutLookScreenQuickBook.jsx | 26 Additions & 101 Deletions|
+| 1/17/2025, 5:50:03 PM | src/Helper/ | 0 Additions & 0 Deletions|
