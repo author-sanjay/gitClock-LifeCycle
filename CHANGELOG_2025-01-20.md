@@ -77,3 +77,4 @@ This file logs the changes made on 1/20/2025.
 | 1/20/2025, 1:30:17 PM | config/default.json | 1 Additions & 1 Deletions|
 | 1/20/2025, 1:30:17 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 1/20/2025, 1:30:17 PM | server.js | 1 Additions & 1 Deletions|
+| 1/20/2025, 4:16:07 PM | api/swagger/swagger.yaml | 2 Additions & 0 Deletions|
