@@ -9,8 +9,11 @@ This file logs the changes made on 1/20/2025.
 | 1/20/2025, 10:30:18 AM | config/default.json | 1 Additions & 1 Deletions |
 | 1/20/2025, 10:30:18 AM | logs/audit.json | 15 Additions & 15 Deletions |
 | 1/20/2025, 10:30:18 AM | server.js | 1 Additions & 1 Deletions |
-| 1/20/2025, 10:34:05 AM | api/controllers/meeting.controller.js | 3 Additions & 2 Deletions|
-| 1/20/2025, 10:34:05 AM | api/swagger/swagger.yaml | 10 Additions & 0 Deletions|
-| 1/20/2025, 10:34:05 AM | dal.js | 2 Additions & 2 Deletions|
-| 1/20/2025, 10:34:05 AM | logs/audit.json | 5 Additions & 5 Deletions|
-| 1/20/2025, 10:34:05 AM | managers/meeting.manager.js | 1 Additions & 1 Deletions|
+| 1/20/2025, 10:34:10 AM | debug.log | 12 Additions & 0 Deletions|
+| 1/20/2025, 10:34:10 AM | src/Helper/OutLookHelper.js | 71 Additions & 38 Deletions|
+| 1/20/2025, 10:34:10 AM | src/OutlookUI/OutLookScreen.jsx | 24 Additions & 17 Deletions|
+| 1/20/2025, 10:34:10 AM | src/OutlookUI/OutLookScreenAssignRoom.jsx | 133 Additions & 58 Deletions|
+| 1/20/2025, 10:34:10 AM | src/OutlookUI/OutLookScreenQuickBook.jsx | 104 Additions & 63 Deletions|
+| 1/20/2025, 10:34:10 AM | src/Store/Store.js | 11 Additions & 11 Deletions|
+| 1/20/2025, 10:34:10 AM | src/OutlookUI/SingleRoomCardOutlook.jsx | 0 Additions & 0 Deletions|
+| 1/20/2025, 10:34:10 AM | src/Store/OutLookSelectedMeeting.js | 0 Additions & 0 Deletions|
