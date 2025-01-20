@@ -109,3 +109,4 @@ This file logs the changes made on 1/20/2025.
 | 1/20/2025, 5:46:33 PM | src/Store/Store.js | 11 Additions & 11 Deletions|
 | 1/20/2025, 5:46:33 PM | src/OutlookUI/SingleRoomCardOutlook.jsx | 0 Additions & 0 Deletions|
 | 1/20/2025, 5:46:33 PM | src/Store/OutLookSelectedMeeting.js | 0 Additions & 0 Deletions|
+| 1/20/2025, 6:16:07 PM | api/swagger/swagger.yaml | 2 Additions & 0 Deletions|
