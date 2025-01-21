@@ -36,3 +36,7 @@ This file logs the changes made on 1/21/2025.
 | 1/21/2025, 4:41:22 PM | helpers/OutlookHelper.js | 0 Additions & 0 Deletions|
 | 1/21/2025, 6:15:03 PM | config/config.json | 0 Additions & 2 Deletions|
 | 1/21/2025, 6:15:03 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/21/2025, 6:19:16 PM | api/controllers/outlook.controller.js | 35 Additions & 0 Deletions|
+| 1/21/2025, 6:19:16 PM | api/swagger/swagger.yaml | 27 Additions & 2 Deletions|
+| 1/21/2025, 6:19:16 PM | server.js | 20 Additions & 1 Deletions|
+| 1/21/2025, 6:19:16 PM | helpers/outlook.helper.js | 0 Additions & 0 Deletions|
