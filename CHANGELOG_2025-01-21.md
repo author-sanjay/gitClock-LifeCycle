@@ -39,3 +39,7 @@ This file logs the changes made on 1/21/2025.
 | 1/21/2025, 6:19:51 PM | debug.log | 3 Additions & 0 Deletions|
 | 1/21/2025, 6:45:02 PM | config/config.json | 0 Additions & 2 Deletions|
 | 1/21/2025, 6:45:02 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/21/2025, 6:49:16 PM | api/controllers/outlook.controller.js | 69 Additions & 1 Deletions|
+| 1/21/2025, 6:49:16 PM | api/swagger/swagger.yaml | 45 Additions & 1 Deletions|
+| 1/21/2025, 6:49:16 PM | server.js | 0 Additions & 1 Deletions|
+| 1/21/2025, 6:49:16 PM | helpers/outlook.helper.js | 0 Additions & 0 Deletions|
