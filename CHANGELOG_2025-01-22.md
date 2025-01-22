@@ -10,3 +10,6 @@ This file logs the changes made on 1/22/2025.
 | 1/22/2025, 11:20:20 AM | logs/audit.json | 10 Additions & 10 Deletions|
 | 1/22/2025, 11:50:20 AM | logs/audit.json | 10 Additions & 10 Deletions|
 | 1/22/2025, 12:20:20 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 1/22/2025, 12:49:28 PM | debug.log | 3 Additions & 0 Deletions|
+| 1/22/2025, 12:49:28 PM | src/Helper/OutLookHelper.js | 15 Additions & 18 Deletions|
+| 1/22/2025, 12:49:28 PM | src/OutlookUI/OutLookLoginScreen.jsx | 39 Additions & 2 Deletions|
