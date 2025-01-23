@@ -25,3 +25,5 @@ This file logs the changes made on 1/23/2025.
 | 1/23/2025, 3:35:23 PM | debug.log | 3 Additions & 0 Deletions|
 | 1/23/2025, 3:35:23 PM | src/Helper/OutLookHelper.js | 28 Additions & 5 Deletions|
 | 1/23/2025, 3:35:23 PM | src/OutlookUI/OutLookLoginScreen.jsx | 14 Additions & 5 Deletions|
+| 1/23/2025, 4:04:50 PM | dal.js | 7 Additions & 9 Deletions|
+| 1/23/2025, 4:04:50 PM | logs/audit.json | 15 Additions & 15 Deletions|
