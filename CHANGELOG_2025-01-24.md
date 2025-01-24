@@ -33,3 +33,6 @@ This file logs the changes made on 1/24/2025.
 | 1/24/2025, 6:08:11 PM | debug.log | 12 Additions & 0 Deletions|
 | 1/24/2025, 6:08:11 PM | src/Helper/OutLookHelper.js | 41 Additions & 15 Deletions|
 | 1/24/2025, 6:08:11 PM | src/OutlookUI/OutLookLoginScreen.jsx | 14 Additions & 5 Deletions|
+| 1/24/2025, 6:37:37 PM | config/config.json | 1 Additions & 3 Deletions|
+| 1/24/2025, 6:37:37 PM | dal.js | 1 Additions & 0 Deletions|
+| 1/24/2025, 6:37:37 PM | server.js | 3 Additions & 2 Deletions|
