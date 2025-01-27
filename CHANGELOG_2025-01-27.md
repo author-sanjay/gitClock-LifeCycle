@@ -11,3 +11,6 @@ This file logs the changes made on 1/27/2025.
 | 1/27/2025, 10:36:14 AM | debug.log | 15 Additions & 0 Deletions|
 | 1/27/2025, 10:36:14 AM | src/Helper/OutLookHelper.js | 42 Additions & 16 Deletions|
 | 1/27/2025, 10:36:14 AM | src/OutlookUI/OutLookLoginScreen.jsx | 15 Additions & 6 Deletions|
+| 1/27/2025, 10:43:34 AM | api/controllers/outlook.controller.js | 1 Additions & 1 Deletions|
+| 1/27/2025, 10:43:34 AM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
+| 1/27/2025, 10:43:34 AM | logs/audit.json | 5 Additions & 5 Deletions|
