@@ -67,3 +67,7 @@ This file logs the changes made on 1/27/2025.
 | 1/27/2025, 1:13:57 PM | package.json | 3 Additions & 0 Deletions|
 | 1/27/2025, 1:13:57 PM | sequelize.js | 1 Additions & 1 Deletions|
 | 1/27/2025, 1:13:57 PM | server.js | 6 Additions & 2 Deletions|
+| 1/27/2025, 1:30:05 PM | dal.js | 7 Additions & 9 Deletions|
+| 1/27/2025, 1:30:05 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 1/27/2025, 1:30:05 PM | server.js | 12 Additions & 2 Deletions|
+| 1/27/2025, 1:30:05 PM | helpers/OutlookHelper.js | 0 Additions & 0 Deletions|
