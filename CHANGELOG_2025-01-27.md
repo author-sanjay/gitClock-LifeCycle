@@ -27,3 +27,4 @@ This file logs the changes made on 1/27/2025.
 | 1/27/2025, 11:43:56 AM | logs/audit.json | 5 Additions & 5 Deletions|
 | 1/27/2025, 11:43:56 AM | sequelize.js | 3 Additions & 3 Deletions|
 | 1/27/2025, 11:43:56 AM | server.js | 3 Additions & 2 Deletions|
+| 1/27/2025, 11:56:22 AM | logs/audit.json | 5 Additions & 5 Deletions|
