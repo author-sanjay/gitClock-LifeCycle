@@ -18,3 +18,7 @@ This file logs the changes made on 1/27/2025.
 | 1/27/2025, 11:14:47 AM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
 | 1/27/2025, 11:14:47 AM | logs/audit.json | 5 Additions & 5 Deletions|
 | 1/27/2025, 11:26:23 AM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/27/2025, 11:30:05 AM | dal.js | 7 Additions & 9 Deletions|
+| 1/27/2025, 11:30:05 AM | logs/audit.json | 15 Additions & 15 Deletions|
+| 1/27/2025, 11:30:05 AM | server.js | 12 Additions & 2 Deletions|
+| 1/27/2025, 11:30:05 AM | helpers/OutlookHelper.js | 0 Additions & 0 Deletions|
