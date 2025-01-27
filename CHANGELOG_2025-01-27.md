@@ -100,3 +100,6 @@ This file logs the changes made on 1/27/2025.
 | 1/27/2025, 5:02:03 PM | debug.log | 6 Additions & 0 Deletions|
 | 1/27/2025, 5:02:03 PM | src/Helper/OutLookHelper.js | 73 Additions & 72 Deletions|
 | 1/27/2025, 5:02:03 PM | src/OutlookUI/OutLookLoginScreen.jsx | 2 Additions & 6 Deletions|
+| 1/27/2025, 5:35:26 PM | debug.log | 6 Additions & 0 Deletions|
+| 1/27/2025, 5:35:26 PM | src/Helper/OutLookHelper.js | 73 Additions & 72 Deletions|
+| 1/27/2025, 5:35:26 PM | src/OutlookUI/OutLookLoginScreen.jsx | 2 Additions & 6 Deletions|
