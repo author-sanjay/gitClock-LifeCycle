@@ -14,3 +14,6 @@ This file logs the changes made on 1/27/2025.
 | 1/27/2025, 10:43:34 AM | api/controllers/outlook.controller.js | 1 Additions & 1 Deletions|
 | 1/27/2025, 10:43:34 AM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
 | 1/27/2025, 10:43:34 AM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/27/2025, 11:14:47 AM | api/controllers/outlook.controller.js | 1 Additions & 1 Deletions|
+| 1/27/2025, 11:14:47 AM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
+| 1/27/2025, 11:14:47 AM | logs/audit.json | 5 Additions & 5 Deletions|
