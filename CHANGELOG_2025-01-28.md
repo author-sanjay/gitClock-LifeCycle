@@ -83,3 +83,4 @@ This file logs the changes made on 1/28/2025.
 | 1/28/2025, 6:58:36 PM | managers/meeting.manager.js | 4 Additions & 0 Deletions|
 | 1/28/2025, 6:58:36 PM | server.js | 18 Additions & 2 Deletions|
 | 1/28/2025, 6:58:36 PM | helpers/OutlookHelper.js | 0 Additions & 0 Deletions|
+| 1/28/2025, 7:09:53 PM | debug.log | 3 Additions & 0 Deletions|
