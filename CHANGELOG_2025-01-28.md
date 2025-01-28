@@ -48,6 +48,4 @@ This file logs the changes made on 1/28/2025.
 | 1/28/2025, 1:14:06 PM | helpers/OutlookHelper.js | 0 Additions & 0 Deletions|
 | 1/28/2025, 4:00:16 PM | debug.log | 3 Additions & 0 Deletions|
 | 1/28/2025, 4:30:16 PM | debug.log | 3 Additions & 0 Deletions|
-| 1/28/2025, 4:55:53 PM | debug.log | 12 Additions & 0 Deletions|
-| 1/28/2025, 4:55:53 PM | src/Helper/OutLookHelper.js | 74 Additions & 73 Deletions|
-| 1/28/2025, 4:55:53 PM | src/OutlookUI/OutLookLoginScreen.jsx | 2 Additions & 6 Deletions|
+| 1/28/2025, 5:00:16 PM | debug.log | 3 Additions & 0 Deletions|
