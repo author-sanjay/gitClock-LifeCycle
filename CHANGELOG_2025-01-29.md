@@ -52,3 +52,7 @@ This file logs the changes made on 1/29/2025.
 | 1/29/2025, 3:52:15 PM | server.js | 53 Additions & 13 Deletions|
 | 1/29/2025, 3:52:15 PM | services/emms.external.service.js | 5 Additions & 2 Deletions|
 | 1/29/2025, 3:52:15 PM | helpers/OutLookUser.js | 0 Additions & 0 Deletions|
+| 1/29/2025, 3:58:25 PM | debug.log | 15 Additions & 0 Deletions|
+| 1/29/2025, 3:58:25 PM | src/Helper/OutLookHelper.js | 88 Additions & 73 Deletions|
+| 1/29/2025, 3:58:25 PM | src/OutlookUI/OutLookLoginScreen.jsx | 2 Additions & 6 Deletions|
+| 1/29/2025, 3:58:25 PM | src/OutlookUI/OutLookScreenAssignRoom.jsx | 3 Additions & 17 Deletions|
