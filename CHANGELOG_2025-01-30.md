@@ -17,3 +17,6 @@ This file logs the changes made on 1/30/2025.
 | 1/30/2025, 3:31:39 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 1/30/2025, 3:45:56 PM | debug.log | 6 Additions & 0 Deletions|
 | 1/30/2025, 4:01:39 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 1/30/2025, 4:15:55 PM | api/controllers/outlook.controller.js | 1 Additions & 1 Deletions|
+| 1/30/2025, 4:15:55 PM | helpers/OutlookHelper.js | 1 Additions & 1 Deletions|
+| 1/30/2025, 4:15:55 PM | logs/audit.json | 5 Additions & 5 Deletions|
