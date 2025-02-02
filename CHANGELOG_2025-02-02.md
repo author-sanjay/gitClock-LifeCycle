@@ -8,3 +8,6 @@ This file logs the changes made on 2/2/2025.
 | 2/2/2025, 2:27:26 PM | src/Pages/Dashboard/Dashboard.jsx | 1 Additions & 1 Deletions|
 | 2/2/2025, 2:57:26 PM | src/Pages/Dashboard/Dashboard.jsx | 1 Additions & 1 Deletions|
 | 2/2/2025, 3:27:26 PM | src/Pages/Dashboard/Dashboard.jsx | 1 Additions & 1 Deletions|
+| 2/2/2025, 3:57:26 PM | src/Components/Navbar.jsx | 2 Additions & 2 Deletions|
+| 2/2/2025, 3:57:26 PM | src/Context/UserContext.jsx | 9 Additions & 4 Deletions|
+| 2/2/2025, 3:57:26 PM | src/Pages/Dashboard/Dashboard.jsx | 4 Additions & 1 Deletions|
