@@ -27,3 +27,7 @@ This file logs the changes made on 2/2/2025.
 | 2/2/2025, 5:57:28 PM | src/Context/UserContext.jsx | 9 Additions & 4 Deletions|
 | 2/2/2025, 5:57:28 PM | src/Pages/Dashboard/Dashboard.jsx | 6 Additions & 1 Deletions|
 | 2/2/2025, 5:57:28 PM | src/Pages/Dashboard/Components/ | 0 Additions & 0 Deletions|
+| 2/2/2025, 6:27:29 PM | src/Components/Navbar.jsx | 2 Additions & 2 Deletions|
+| 2/2/2025, 6:27:29 PM | src/Context/UserContext.jsx | 9 Additions & 4 Deletions|
+| 2/2/2025, 6:27:29 PM | src/Pages/Dashboard/Dashboard.jsx | 6 Additions & 1 Deletions|
+| 2/2/2025, 6:27:29 PM | src/Pages/Dashboard/Components/ | 0 Additions & 0 Deletions|
