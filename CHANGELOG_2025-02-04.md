@@ -20,3 +20,5 @@ This file logs the changes made on 2/4/2025.
 | 2/4/2025, 2:57:50 PM | src/OutlookUI/OutLookScreenAssignRoom.jsx | 1 Additions & 1 Deletions|
 | 2/4/2025, 2:57:50 PM | src/OutlookUI/OutLookScreenQuickBook.jsx | 23 Additions & 8 Deletions|
 | 2/4/2025, 2:57:50 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 0 Additions & 0 Deletions|
+| 2/4/2025, 3:25:46 PM | src/Pages/Dashboard/Components/ComponentsHeader.jsx | 5 Additions & 4 Deletions|
+| 2/4/2025, 3:25:46 PM | src/Pages/Dashboard/Components/Payouts/Payouts.jsx | 99 Additions & 4 Deletions|
