@@ -39,3 +39,6 @@ This file logs the changes made on 2/4/2025.
 | 2/4/2025, 4:58:39 PM | helpers/OutlookHelper.js | 1 Additions & 1 Deletions|
 | 2/4/2025, 4:58:39 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 2/4/2025, 4:58:39 PM | server.js | 0 Additions & 3 Deletions|
+| 2/5/2025, 12:01:37 AM | src/Pages/Dashboard/Components/Mobile/MobileDashboard.jsx | 5 Additions & 1 Deletions|
+| 2/5/2025, 12:01:37 AM | src/Pages/Dashboard/Dashboard.jsx | 2 Additions & 2 Deletions|
+| 2/5/2025, 12:01:37 AM | src/Pages/Dashboard/Components/Mobile/Components/MobileOverview.jsx | 0 Additions & 0 Deletions|
