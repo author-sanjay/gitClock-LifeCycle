@@ -90,3 +90,7 @@ This file logs the changes made on 2/6/2025.
 | 2/6/2025, 6:47:36 PM | src/Pages/Dashboard/Components/Mobile/MobileDashboard.jsx | 2 Additions & 2 Deletions|
 | 2/6/2025, 6:47:36 PM | src/Pages/Promises/CreatePromise.jsx | 2 Additions & 2 Deletions|
 | 2/6/2025, 6:47:36 PM | src/Pages/Promises/ViewPromise.jsx | 43 Additions & 6 Deletions|
+| 2/6/2025, 7:01:36 PM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
+| 2/6/2025, 7:01:36 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 2/6/2025, 7:01:36 PM | package-lock.json | 1300 Additions & 0 Deletions|
+| 2/6/2025, 7:01:36 PM | package.json | 3 Additions & 0 Deletions|
