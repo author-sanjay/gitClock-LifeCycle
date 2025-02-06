@@ -42,3 +42,12 @@ This file logs the changes made on 2/6/2025.
 | 2/6/2025, 5:04:16 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
 | 2/6/2025, 5:04:16 PM | "src/Components/Manager Signage/ShowOngoingMeetingDetails.js" | undefined Additions & undefined Deletions|
 | 2/6/2025, 5:04:16 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | 0 Additions & 0 Deletions|
+| 2/6/2025, 5:17:36 PM | src/App.jsx | 3 Additions & 3 Deletions|
+| 2/6/2025, 5:17:36 PM | src/Context/SelectedOptionContext.jsx | 13 Additions & 7 Deletions|
+| 2/6/2025, 5:17:36 PM | src/Pages/Dashboard/Components/Breadcrump.jsx | 2 Additions & 2 Deletions|
+| 2/6/2025, 5:17:36 PM | src/Pages/Dashboard/Components/DashboardLeftNav.jsx | 2 Additions & 2 Deletions|
+| 2/6/2025, 5:17:36 PM | src/Pages/Dashboard/Components/DashboardRightUI.jsx | 2 Additions & 2 Deletions|
+| 2/6/2025, 5:17:36 PM | src/Pages/Dashboard/Components/Mobile/Components/MobileNavigator.jsx | 2 Additions & 2 Deletions|
+| 2/6/2025, 5:17:36 PM | src/Pages/Dashboard/Components/Mobile/MobileDashboard.jsx | 2 Additions & 2 Deletions|
+| 2/6/2025, 5:17:36 PM | src/Pages/Promises/CreatePromise.jsx | 2 Additions & 2 Deletions|
+| 2/6/2025, 5:17:36 PM | src/Pages/Promises/ViewPromise.jsx | 43 Additions & 6 Deletions|
