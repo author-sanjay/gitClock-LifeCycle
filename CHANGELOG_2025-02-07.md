@@ -26,3 +26,4 @@ This file logs the changes made on 2/7/2025.
 | 2/7/2025, 1:52:37 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
 | 2/7/2025, 1:52:37 PM | "src/Components/Manager Signage/ShowOngoingMeetingDetails.js" | undefined Additions & undefined Deletions|
 | 2/7/2025, 1:52:37 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | 0 Additions & 0 Deletions|
+| 2/7/2025, 2:21:40 PM | logs/audit.json | 5 Additions & 5 Deletions|
