@@ -9,3 +9,10 @@ This file logs the changes made on 2/8/2025.
 | 2/8/2025, 9:46:43 AM | src/Pages/Dashboard/Components/Promises/Promises.jsx | 1 Additions & 1 Deletions |
 | 2/8/2025, 9:46:43 AM | src/Pages/Promises/CreatePromise.jsx | 4 Additions & 7 Deletions |
 | 2/8/2025, 9:46:43 AM | src/Pages/Promises/ViewPromise.jsx | 2 Additions & 2 Deletions |
+| 2/8/2025, 10:16:43 AM | src/App.jsx | 2 Additions & 1 Deletions|
+| 2/8/2025, 10:16:43 AM | src/Pages/Dashboard/Components/Approvals/Approvals.jsx | 12 Additions & 6 Deletions|
+| 2/8/2025, 10:16:43 AM | src/Pages/Dashboard/Components/DashBoardDataTable.jsx | 8 Additions & 5 Deletions|
+| 2/8/2025, 10:16:43 AM | src/Pages/Dashboard/Components/Promises/Promises.jsx | 2 Additions & 2 Deletions|
+| 2/8/2025, 10:16:43 AM | src/Pages/Promises/CreatePromise.jsx | 173 Additions & 84 Deletions|
+| 2/8/2025, 10:16:43 AM | src/Pages/Promises/ViewPromise.jsx | 169 Additions & 151 Deletions|
+| 2/8/2025, 10:16:43 AM | src/Pages/Approvals/ | 0 Additions & 0 Deletions|
