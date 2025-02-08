@@ -106,3 +106,5 @@ This file logs the changes made on 2/8/2025.
 | 2/8/2025, 11:34:07 PM | src/Pages/T&C/TermsAndConditions.jsx | 150 Additions & 97 Deletions|
 | 2/8/2025, 11:34:07 PM | src/Pages/Disputes/ | 0 Additions & 0 Deletions|
 | 2/8/2025, 11:34:07 PM | src/Pages/Profile/ | 0 Additions & 0 Deletions|
+| 2/9/2025, 12:34:07 AM | src/Pages/Dashboard/Components/Mobile/MobileDashboard.jsx | 2 Additions & 0 Deletions|
+| 2/9/2025, 12:34:07 AM | src/Pages/Profile/Profile.jsx | 295 Additions & 174 Deletions|
