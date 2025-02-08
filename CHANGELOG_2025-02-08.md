@@ -30,4 +30,12 @@ This file logs the changes made on 2/8/2025.
 | 2/8/2025, 10:46:43 AM | src/Pages/Dashboard/Components/Challenges/Explore.jsx | 0 Additions & 0 Deletions|
 | 2/8/2025, 10:46:43 AM | src/Pages/Payouts/ | 0 Additions & 0 Deletions|
 | 2/8/2025, 12:05:45 PM | logs/audit.json | 10 Additions & 10 Deletions|
-| 2/8/2025, 1:14:34 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 2/8/2025, 1:15:02 PM | package-lock.json | 29 Additions & 0 Deletions|
+| 2/8/2025, 1:15:02 PM | package.json | 2 Additions & 0 Deletions|
+| 2/8/2025, 1:15:02 PM | "src/Components/Manager Signage/HostelName.css" | undefined Additions & undefined Deletions|
+| 2/8/2025, 1:15:02 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 2/8/2025, 1:15:02 PM | "src/Components/Manager Signage/ShowOngoingMeetingDetails.js" | undefined Additions & undefined Deletions|
+| 2/8/2025, 1:15:02 PM | "src/Components/Manager Signage/Content.jsx" | 0 Additions & 0 Deletions|
+| 2/8/2025, 1:15:02 PM | "src/Components/Manager Signage/ContentAI.jsx" | 0 Additions & 0 Deletions|
+| 2/8/2025, 1:15:02 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | 0 Additions & 0 Deletions|
+| 2/8/2025, 1:15:02 PM | "src/Components/Manager Signage/MeetingTemplate.jsx" | 0 Additions & 0 Deletions|
