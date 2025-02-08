@@ -59,3 +59,10 @@ This file logs the changes made on 2/8/2025.
 | 2/8/2025, 2:15:02 PM | "src/Components/Manager Signage/ContentAI.jsx" | 0 Additions & 0 Deletions|
 | 2/8/2025, 2:15:02 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | 0 Additions & 0 Deletions|
 | 2/8/2025, 2:15:02 PM | "src/Components/Manager Signage/MeetingTemplate.jsx" | 0 Additions & 0 Deletions|
+| 2/8/2025, 3:31:21 PM | src/Pages/Approvals/ViewApprovals.jsx | 15 Additions & 1 Deletions|
+| 2/8/2025, 3:31:21 PM | src/Pages/Dashboard/Components/Mobile/Components/MobileApprovals.jsx | 1 Additions & 1 Deletions|
+| 2/8/2025, 3:31:21 PM | src/Pages/Dashboard/Components/Mobile/Components/MobileOverview.jsx | 182 Additions & 142 Deletions|
+| 2/8/2025, 3:31:21 PM | src/Pages/Dashboard/Components/Mobile/Components/MobilePromises.jsx | 98 Additions & 86 Deletions|
+| 2/8/2025, 3:31:21 PM | src/Pages/Dashboard/Components/Mobile/Components/MobileTable.jsx | 99 Additions & 62 Deletions|
+| 2/8/2025, 3:31:21 PM | src/Pages/Promises/ViewPromise.jsx | 8 Additions & 0 Deletions|
+| 2/8/2025, 3:31:21 PM | src/Pages/Promises/ViewMobilePromise.jsx | 0 Additions & 0 Deletions|
