@@ -66,3 +66,5 @@ This file logs the changes made on 2/8/2025.
 | 2/8/2025, 3:31:21 PM | src/Pages/Dashboard/Components/Mobile/Components/MobileTable.jsx | 99 Additions & 62 Deletions|
 | 2/8/2025, 3:31:21 PM | src/Pages/Promises/ViewPromise.jsx | 8 Additions & 0 Deletions|
 | 2/8/2025, 3:31:21 PM | src/Pages/Promises/ViewMobilePromise.jsx | 0 Additions & 0 Deletions|
+| 2/8/2025, 4:01:21 PM | src/Context/SelectedOptionContext.jsx | 1 Additions & 1 Deletions|
+| 2/8/2025, 4:01:21 PM | src/Pages/Payouts/NewPayout.jsx | 182 Additions & 8 Deletions|
