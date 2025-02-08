@@ -108,3 +108,6 @@ This file logs the changes made on 2/8/2025.
 | 2/8/2025, 11:34:07 PM | src/Pages/Profile/ | 0 Additions & 0 Deletions|
 | 2/9/2025, 12:34:07 AM | src/Pages/Dashboard/Components/Mobile/MobileDashboard.jsx | 2 Additions & 0 Deletions|
 | 2/9/2025, 12:34:07 AM | src/Pages/Profile/Profile.jsx | 295 Additions & 174 Deletions|
+| 2/9/2025, 1:04:06 AM | src/Pages/Dashboard/Components/Mobile/MobileDashboard.jsx | 2 Additions & 0 Deletions|
+| 2/9/2025, 1:04:06 AM | src/Pages/Dashboard/Dashboard.jsx | 2 Additions & 1 Deletions|
+| 2/9/2025, 1:04:06 AM | src/Pages/Profile/Profile.jsx | 295 Additions & 174 Deletions|
