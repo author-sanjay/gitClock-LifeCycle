@@ -50,3 +50,7 @@ This file logs the changes made on 2/11/2025.
 | 2/11/2025, 7:17:14 PM | src/Components/Home/Components/FinalLayerFree.js | 3 Additions & 0 Deletions|
 | 2/11/2025, 7:17:14 PM | src/Components/Home/FreeBusySelected.js | 1 Additions & 1 Deletions|
 | 2/11/2025, 7:17:14 PM | yarn.lock | 0 Additions & 5 Deletions|
+| 2/11/2025, 10:03:47 PM | package-lock.json | 652 Additions & 40 Deletions|
+| 2/11/2025, 10:03:48 PM | package.json | 4 Additions & 0 Deletions|
+| 2/11/2025, 10:03:48 PM | src/Pages/Promises/Step1.jsx | 11 Additions & 12 Deletions|
+| 2/11/2025, 10:03:48 PM | src/main.jsx | 5 Additions & 1 Deletions|
