@@ -30,3 +30,6 @@ This file logs the changes made on 2/11/2025.
 | 2/11/2025, 5:17:14 PM | src/Components/Home/Components/FinalLayerFree.js | 3 Additions & 0 Deletions|
 | 2/11/2025, 5:17:14 PM | src/Components/Home/FreeBusySelected.js | 1 Additions & 1 Deletions|
 | 2/11/2025, 5:17:14 PM | yarn.lock | 0 Additions & 5 Deletions|
+| 2/11/2025, 5:46:58 PM | helpers/NodeIntervalTree.js | 73 Additions & 194 Deletions|
+| 2/11/2025, 5:46:58 PM | helpers/Tree.js | 9 Additions & 8 Deletions|
+| 2/11/2025, 5:46:58 PM | logs/audit.json | 5 Additions & 5 Deletions|
