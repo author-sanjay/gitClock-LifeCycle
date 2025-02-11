@@ -10,3 +10,6 @@ This file logs the changes made on 2/11/2025.
 | 2/11/2025, 12:27:31 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 2/11/2025, 12:57:31 PM | helpers/NodeIntervalTree.js | 60 Additions & 245 Deletions|
 | 2/11/2025, 12:57:31 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 2/11/2025, 1:27:31 PM | helpers/NodeIntervalTree.js | 62 Additions & 192 Deletions|
+| 2/11/2025, 1:27:31 PM | helpers/Tree.js | 7 Additions & 7 Deletions|
+| 2/11/2025, 1:27:31 PM | logs/audit.json | 5 Additions & 5 Deletions|
