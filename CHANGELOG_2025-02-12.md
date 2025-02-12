@@ -61,3 +61,5 @@ This file logs the changes made on 2/12/2025.
 | 2/12/2025, 4:56:26 PM | src/Pages/Promises/ViewMobilePromise.jsx | 2 Additions & 2 Deletions|
 | 2/12/2025, 4:56:26 PM | src/Pages/Promises/ViewPromise.jsx | 5 Additions & 4 Deletions|
 | 2/12/2025, 5:09:03 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 2/12/2025, 5:26:23 PM | prisma/schema.prisma | 3 Additions & 13 Deletions|
+| 2/12/2025, 5:26:23 PM | src/user/user.service.ts | 11 Additions & 14 Deletions|
