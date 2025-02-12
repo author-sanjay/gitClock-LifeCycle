@@ -76,3 +76,6 @@ This file logs the changes made on 2/12/2025.
 | 2/12/2025, 6:56:27 PM | src/Pages/Dashboard/Components/Mobile/Components/MobileTable.jsx | 25 Additions & 9 Deletions|
 | 2/12/2025, 6:56:27 PM | src/Pages/Promises/ViewMobilePromise.jsx | 37 Additions & 39 Deletions|
 | 2/12/2025, 6:56:27 PM | src/Pages/Promises/ViewPromise.jsx | 61 Additions & 52 Deletions|
+| 2/12/2025, 7:26:23 PM | prisma/schema.prisma | 26 Additions & 14 Deletions|
+| 2/12/2025, 7:26:23 PM | src/user/user.service.ts | 20 Additions & 15 Deletions|
+| 2/12/2025, 7:26:23 PM | prisma/migrations/20250212122401_evidences/ | 0 Additions & 0 Deletions|
