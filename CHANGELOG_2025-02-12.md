@@ -64,3 +64,4 @@ This file logs the changes made on 2/12/2025.
 | 2/12/2025, 5:26:26 PM | src/Pages/Dashboard/Components/Mobile/Components/MobileTable.jsx | 25 Additions & 9 Deletions|
 | 2/12/2025, 5:26:26 PM | src/Pages/Promises/ViewMobilePromise.jsx | 2 Additions & 2 Deletions|
 | 2/12/2025, 5:26:26 PM | src/Pages/Promises/ViewPromise.jsx | 10 Additions & 5 Deletions|
+| 2/12/2025, 5:39:02 PM | logs/audit.json | 15 Additions & 15 Deletions|
