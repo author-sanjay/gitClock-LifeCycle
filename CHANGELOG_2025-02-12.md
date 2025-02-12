@@ -154,3 +154,4 @@ This file logs the changes made on 2/12/2025.
 | 2/13/2025, 1:03:11 AM | src/Pages/Promises/ViewPromise.jsx | 61 Additions & 52 Deletions|
 | 2/13/2025, 1:03:11 AM | src/main.jsx | 1 Additions & 1 Deletions|
 | 2/13/2025, 1:03:11 AM | src/APIs/Notifiction.jsx | 0 Additions & 0 Deletions|
+| 2/13/2025, 2:03:10 AM | src/Pages/Promises/Step2.jsx | 51 Additions & 13 Deletions|
