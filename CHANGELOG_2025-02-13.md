@@ -53,5 +53,5 @@ This file logs the changes made on 2/13/2025.
 | 2/13/2025, 6:41:01 PM | src/Components/NavigatorScreen/Components/CardHolder/LargeOngoingDisplayHolder.js | 45 Additions & 33 Deletions|
 | 2/13/2025, 6:41:01 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBody/CardBody.js | 1 Additions & 1 Deletions|
 | 2/13/2025, 6:41:01 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImage/CardBodyNoImage.js | 1 Additions & 1 Deletions|
-| 2/13/2025, 7:10:41 PM | dal.js | 30 Additions & 8 Deletions|
-| 2/13/2025, 7:10:41 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 2/13/2025, 7:10:52 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 2/13/2025, 7:10:52 PM | services/emms.service.js | 1 Additions & 0 Deletions|
