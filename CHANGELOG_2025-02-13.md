@@ -24,3 +24,5 @@ This file logs the changes made on 2/13/2025.
 | 2/13/2025, 5:11:00 PM | src/Components/Home/FreeBusySelected.js | 2 Additions & 1 Deletions|
 | 2/13/2025, 5:11:00 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBody/CardBody.js | 1 Additions & 1 Deletions|
 | 2/13/2025, 5:11:00 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImage/CardBodyNoImage.js | 1 Additions & 1 Deletions|
+| 2/13/2025, 5:40:40 PM | dal.js | 30 Additions & 8 Deletions|
+| 2/13/2025, 5:40:40 PM | logs/audit.json | 5 Additions & 5 Deletions|
