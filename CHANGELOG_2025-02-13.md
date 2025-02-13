@@ -43,3 +43,4 @@ This file logs the changes made on 2/13/2025.
 | 2/13/2025, 6:11:01 PM | src/Components/NavigatorScreen/Components/CardHolder/LargeOngoingDisplayHolder.js | 45 Additions & 33 Deletions|
 | 2/13/2025, 6:11:01 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBody/CardBody.js | 1 Additions & 1 Deletions|
 | 2/13/2025, 6:11:01 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImage/CardBodyNoImage.js | 1 Additions & 1 Deletions|
+| 2/13/2025, 6:38:09 PM | src/Pages/Promises/Step2.jsx | 51 Additions & 13 Deletions|
