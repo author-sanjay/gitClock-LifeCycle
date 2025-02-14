@@ -27,3 +27,6 @@ This file logs the changes made on 2/14/2025.
 | 2/14/2025, 6:49:26 PM | package-lock.json | 0 Additions & 7 Deletions|
 | 2/14/2025, 6:49:26 PM | yarn.lock | 0 Additions & 5 Deletions|
 | 2/14/2025, 9:55:04 PM | src/promises/promises.service.ts | 18 Additions & 3 Deletions|
+| 2/14/2025, 10:24:35 PM | src/APIs/PromisesApi.jsx | 56 Additions & 1 Deletions|
+| 2/14/2025, 10:24:35 PM | src/Pages/Promises/Step2.jsx | 30 Additions & 63 Deletions|
+| 2/14/2025, 10:24:35 PM | src/Pages/Promises/Step2Mobile.jsx | 53 Additions & 35 Deletions|
