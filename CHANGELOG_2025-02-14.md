@@ -24,3 +24,5 @@ This file logs the changes made on 2/14/2025.
 | 2/14/2025, 5:48:25 PM | managers/meeting.manager.js | 53 Additions & 52 Deletions|
 | 2/14/2025, 6:19:27 PM | package-lock.json | 0 Additions & 7 Deletions|
 | 2/14/2025, 6:19:27 PM | yarn.lock | 0 Additions & 5 Deletions|
+| 2/14/2025, 6:49:26 PM | package-lock.json | 0 Additions & 7 Deletions|
+| 2/14/2025, 6:49:26 PM | yarn.lock | 0 Additions & 5 Deletions|
