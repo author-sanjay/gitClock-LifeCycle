@@ -108,3 +108,6 @@ This file logs the changes made on 2/15/2025.
 | 2/15/2025, 11:02:16 PM | src/Pages/Promises/ViewPromise.jsx | 7 Additions & 6 Deletions|
 | 2/16/2025, 12:04:37 AM | src/Pages/Disputes/CreateDispute.jsx | 29 Additions & 21 Deletions|
 | 2/16/2025, 12:04:37 AM | src/Pages/Promises/ViewPromise.jsx | 1 Additions & 0 Deletions|
+| 2/16/2025, 12:34:36 AM | src/APIs/PromisesApi.jsx | 4 Additions & 0 Deletions|
+| 2/16/2025, 12:34:36 AM | src/Pages/Disputes/CreateDispute.jsx | 79 Additions & 32 Deletions|
+| 2/16/2025, 12:34:36 AM | src/Pages/Promises/ViewPromise.jsx | 1 Additions & 0 Deletions|
