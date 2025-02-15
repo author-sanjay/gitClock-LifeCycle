@@ -111,3 +111,6 @@ This file logs the changes made on 2/15/2025.
 | 2/16/2025, 12:34:36 AM | src/APIs/PromisesApi.jsx | 4 Additions & 0 Deletions|
 | 2/16/2025, 12:34:36 AM | src/Pages/Disputes/CreateDispute.jsx | 79 Additions & 32 Deletions|
 | 2/16/2025, 12:34:36 AM | src/Pages/Promises/ViewPromise.jsx | 1 Additions & 0 Deletions|
+| 2/16/2025, 1:04:35 AM | src/promises/dto/promise.dto.ts | 1 Additions & 1 Deletions|
+| 2/16/2025, 1:04:35 AM | src/promises/promises.controller.ts | 2 Additions & 2 Deletions|
+| 2/16/2025, 1:04:35 AM | src/promises/promises.service.ts | 14 Additions & 1 Deletions|
