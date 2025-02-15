@@ -29,3 +29,7 @@ This file logs the changes made on 2/15/2025.
 | 2/15/2025, 4:48:32 PM | src/promises/promises.controller.ts | 12 Additions & 7 Deletions|
 | 2/15/2025, 4:48:32 PM | src/promises/promises.service.ts | 118 Additions & 37 Deletions|
 | 2/15/2025, 4:48:32 PM | prisma/migrations/20250215101446_pyout_for_refunds/ | 0 Additions & 0 Deletions|
+| 2/15/2025, 6:36:18 PM | prisma/schema.prisma | 3 Additions & 1 Deletions|
+| 2/15/2025, 6:36:18 PM | src/payout/payout.controller.ts | 7 Additions & 1 Deletions|
+| 2/15/2025, 6:36:18 PM | src/payout/payout.service.ts | 34 Additions & 2 Deletions|
+| 2/15/2025, 6:36:18 PM | src/payout/dto/ | 0 Additions & 0 Deletions|
