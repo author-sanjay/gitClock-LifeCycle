@@ -17,3 +17,5 @@ This file logs the changes made on 2/16/2025.
 | 2/16/2025, 2:53:48 PM | src/promises/promises.service.ts | 46 Additions & 2 Deletions|
 | 2/16/2025, 8:15:54 PM | src/promises/promises.service.ts | 1 Additions & 0 Deletions|
 | 2/16/2025, 8:45:54 PM | src/promises/promises.service.ts | 1 Additions & 0 Deletions|
+| 2/16/2025, 9:15:54 PM | src/promises/promises.service.ts | 1 Additions & 0 Deletions|
+| 2/16/2025, 9:15:54 PM | src/user/user.service.ts | 19 Additions & 13 Deletions|
