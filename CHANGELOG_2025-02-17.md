@@ -15,3 +15,5 @@ This file logs the changes made on 2/17/2025.
 | 2/17/2025, 5:08:54 PM | src/Pages/Promises/ViewMobilePromise.jsx | 14 Additions & 6 Deletions|
 | 2/17/2025, 5:08:54 PM | src/Pages/Promises/ViewPromise.jsx | 4 Additions & 4 Deletions|
 | 2/17/2025, 5:08:54 PM | src/index.css | 1 Additions & 2 Deletions|
+| 2/17/2025, 6:35:12 PM | prisma/schema.prisma | 1 Additions & 1 Deletions|
+| 2/17/2025, 6:35:12 PM | prisma/migrations/20250217110449_evidence_sttus/ | 0 Additions & 0 Deletions|
