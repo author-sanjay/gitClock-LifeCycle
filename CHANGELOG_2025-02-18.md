@@ -17,3 +17,6 @@ This file logs the changes made on 2/18/2025.
 | 2/18/2025, 3:27:23 PM | helpers/Tree.js | 1 Additions & 1 Deletions|
 | 2/18/2025, 3:27:23 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 2/18/2025, 7:15:18 PM | src/evidence/evidence.service.ts | 1 Additions & 2 Deletions|
+| 2/18/2025, 7:45:18 PM | src/evidence/evidence.service.ts | 1 Additions & 2 Deletions|
+| 2/18/2025, 7:45:18 PM | src/promises/promises.service.ts | 1 Additions & 1 Deletions|
+| 2/18/2025, 7:45:18 PM | src/user/user.service.ts | 22 Additions & 11 Deletions|
