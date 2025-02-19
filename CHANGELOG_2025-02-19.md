@@ -181,3 +181,8 @@ This file logs the changes made on 2/19/2025.
 | 2/19/2025, 4:39:20 PM | services/emms.service.js | 1 Additions & 0 Deletions|
 | 2/19/2025, 4:48:30 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
 | 2/19/2025, 4:48:30 PM | src/Components/NavigatorScreen/NavigatorSignageFallbackRender/NavigatorSignageFallbackContent.js | 2 Additions & 2 Deletions|
+| 2/19/2025, 6:52:07 PM | package-lock.json | 1 Additions & 0 Deletions|
+| 2/19/2025, 6:52:07 PM | public/index.html | 1 Additions & 1 Deletions|
+| 2/19/2025, 6:52:07 PM | src/APIs/PromisesApi.jsx | 40 Additions & 37 Deletions|
+| 2/19/2025, 6:52:07 PM | build/ | 0 Additions & 0 Deletions|
+| 2/19/2025, 6:52:07 PM | public/transparentLogo.png | 0 Additions & 0 Deletions|
