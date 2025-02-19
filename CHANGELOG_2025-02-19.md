@@ -215,3 +215,7 @@ This file logs the changes made on 2/19/2025.
 | 2/20/2025, 1:22:30 AM | src/Pages/Promises/ViewMobilePromise.jsx | 379 Additions & 195 Deletions|
 | 2/20/2025, 1:22:30 AM | src/Pages/Promises/ViewPromise.jsx | 402 Additions & 182 Deletions|
 | 2/20/2025, 2:22:29 AM | src/Pages/Profile/Profile.jsx | 1 Additions & 1 Deletions|
+| 2/20/2025, 2:45:46 AM | prisma/migrations/migration_lock.toml | undefined Additions & undefined Deletions|
+| 2/20/2025, 2:45:46 AM | prisma/schema.prisma | 1 Additions & 1 Deletions|
+| 2/20/2025, 2:45:46 AM | src/mail/mail.service.ts | 68 Additions & 36 Deletions|
+| 2/20/2025, 2:45:46 AM | prisma/migrations/20250219210004_user_occupation/ | 0 Additions & 0 Deletions|
