@@ -167,3 +167,5 @@ This file logs the changes made on 2/19/2025.
 | 2/19/2025, 3:39:20 PM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
 | 2/19/2025, 3:39:20 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 2/19/2025, 3:39:20 PM | services/emms.service.js | 1 Additions & 0 Deletions|
+| 2/19/2025, 3:48:30 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
+| 2/19/2025, 3:48:30 PM | src/Components/NavigatorScreen/NavigatorSignageFallbackRender/NavigatorSignageFallbackContent.js | 2 Additions & 2 Deletions|
