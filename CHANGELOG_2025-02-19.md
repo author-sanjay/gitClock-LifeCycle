@@ -214,3 +214,4 @@ This file logs the changes made on 2/19/2025.
 | 2/20/2025, 1:22:30 AM | src/Pages/Promises/ViewExplorePromise.jsx | 291 Additions & 186 Deletions|
 | 2/20/2025, 1:22:30 AM | src/Pages/Promises/ViewMobilePromise.jsx | 379 Additions & 195 Deletions|
 | 2/20/2025, 1:22:30 AM | src/Pages/Promises/ViewPromise.jsx | 402 Additions & 182 Deletions|
+| 2/20/2025, 2:22:29 AM | src/Pages/Profile/Profile.jsx | 1 Additions & 1 Deletions|
