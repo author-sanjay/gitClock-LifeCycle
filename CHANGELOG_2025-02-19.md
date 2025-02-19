@@ -187,4 +187,6 @@ This file logs the changes made on 2/19/2025.
 | 2/19/2025, 6:52:07 PM | build/ | 0 Additions & 0 Deletions|
 | 2/19/2025, 6:52:07 PM | public/transparentLogo.png | 0 Additions & 0 Deletions|
 | 2/19/2025, 11:37:46 PM | package-lock.json | 195 Additions & 2 Deletions|
-| 2/20/2025, 12:07:30 AM | src/Context/UserContext.jsx | 4 Additions & 1 Deletions|
+| 2/20/2025, 12:07:51 AM | package-lock.json | 195 Additions & 2 Deletions|
+| 2/20/2025, 12:07:51 AM | src/user/user.controller.ts | 3 Additions & 1 Deletions|
+| 2/20/2025, 12:07:51 AM | src/clerk-auth/ | 0 Additions & 0 Deletions|
