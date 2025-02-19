@@ -219,3 +219,5 @@ This file logs the changes made on 2/19/2025.
 | 2/20/2025, 2:45:46 AM | prisma/schema.prisma | 1 Additions & 1 Deletions|
 | 2/20/2025, 2:45:46 AM | src/mail/mail.service.ts | 68 Additions & 36 Deletions|
 | 2/20/2025, 2:45:46 AM | prisma/migrations/20250219210004_user_occupation/ | 0 Additions & 0 Deletions|
+| 2/20/2025, 2:52:29 AM | src/Pages/Profile/Profile.jsx | 3 Additions & 3 Deletions|
+| 2/20/2025, 2:52:29 AM | src/Pages/Promises/ViewPromise.jsx | 9 Additions & 3 Deletions|
