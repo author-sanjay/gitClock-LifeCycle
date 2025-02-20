@@ -32,3 +32,6 @@ This file logs the changes made on 2/20/2025.
 | 2/20/2025, 4:09:15 PM | prisma/migrations/20250219210004_user_occupation/migration.sql | 0 Additions & 0 Deletions|
 | 2/20/2025, 4:09:15 PM | node_modules.tar.gz | 0 Additions & 0 Deletions|
 | 2/20/2025, 4:09:15 PM | prisma/migrations/20250220094032_user_occupation/ | 0 Additions & 0 Deletions|
+| 2/20/2025, 5:49:57 PM | prisma/migrations/20250219210004_user_occupation/migration.sql | 0 Additions & 0 Deletions|
+| 2/20/2025, 5:49:57 PM | node_modules.tar.gz | 0 Additions & 0 Deletions|
+| 2/20/2025, 5:49:57 PM | prisma/migrations/20250220094032_user_occupation/ | 0 Additions & 0 Deletions|
