@@ -10,3 +10,6 @@ This file logs the changes made on 2/20/2025.
 | 2/20/2025, 1:23:10 PM | src/App.jsx | 3 Additions & 1 Deletions|
 | 2/20/2025, 1:23:10 PM | src/Pages/Dashboard/Components/Evidences/Evidences.jsx | 23 Additions & 2 Deletions|
 | 2/20/2025, 1:23:10 PM | src/Pages/T&C/RefundPolicies.jsx | 0 Additions & 0 Deletions|
+| 2/20/2025, 1:53:10 PM | src/App.jsx | 3 Additions & 1 Deletions|
+| 2/20/2025, 1:53:10 PM | src/Pages/Dashboard/Components/Evidences/Evidences.jsx | 23 Additions & 2 Deletions|
+| 2/20/2025, 1:53:10 PM | src/Pages/T&C/RefundPolicies.jsx | 0 Additions & 0 Deletions|
