@@ -43,3 +43,7 @@ This file logs the changes made on 2/22/2025.
 | 2/22/2025, 5:48:32 PM | src/Pages/Promises/ViewExplorePromise.jsx | 54 Additions & 49 Deletions|
 | 2/22/2025, 5:48:32 PM | src/Pages/Promises/ViewMobilePromise.jsx | 72 Additions & 73 Deletions|
 | 2/22/2025, 5:48:32 PM | src/Pages/Promises/ViewPromise.jsx | 89 Additions & 90 Deletions|
+| 2/22/2025, 9:38:36 PM | src/Pages/Dashboard/Components/DashboardLeftNav.jsx | 1 Additions & 1 Deletions|
+| 2/22/2025, 9:38:36 PM | src/Pages/Dashboard/Components/Payouts/Payouts.jsx | 18 Additions & 8 Deletions|
+| 2/22/2025, 9:38:36 PM | src/Pages/Promises/Step2.jsx | 12 Additions & 11 Deletions|
+| 2/22/2025, 9:38:36 PM | src/Pages/T&C/TermsAndConditions.jsx | 66 Additions & 103 Deletions|
