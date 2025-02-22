@@ -47,3 +47,6 @@ This file logs the changes made on 2/22/2025.
 | 2/22/2025, 9:38:36 PM | src/Pages/Dashboard/Components/Payouts/Payouts.jsx | 18 Additions & 8 Deletions|
 | 2/22/2025, 9:38:36 PM | src/Pages/Promises/Step2.jsx | 12 Additions & 11 Deletions|
 | 2/22/2025, 9:38:36 PM | src/Pages/T&C/TermsAndConditions.jsx | 66 Additions & 103 Deletions|
+| 2/22/2025, 10:08:36 PM | src/Pages/Dashboard/Components/DashboardLeftNav.jsx | 1 Additions & 1 Deletions|
+| 2/22/2025, 10:08:36 PM | src/Pages/Promises/Step2.jsx | 25 Additions & 17 Deletions|
+| 2/22/2025, 10:08:36 PM | src/Pages/T&C/TermsAndConditions.jsx | 76 Additions & 103 Deletions|
