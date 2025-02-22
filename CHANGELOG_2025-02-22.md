@@ -14,3 +14,7 @@ This file logs the changes made on 2/22/2025.
 | 2/22/2025, 2:55:14 PM | src/APIs/Payment.jsx | 4 Additions & 1 Deletions|
 | 2/22/2025, 2:55:14 PM | src/Pages/Promises/Step2.jsx | 10 Additions & 9 Deletions|
 | 2/22/2025, 2:55:14 PM | src/Pages/Promises/Step2Mobile.jsx | 10 Additions & 9 Deletions|
+| 2/22/2025, 4:48:24 PM | package-lock.json | 114 Additions & 0 Deletions|
+| 2/22/2025, 4:48:24 PM | package.json | 1 Additions & 0 Deletions|
+| 2/22/2025, 4:48:24 PM | src/orders/orders.controller.ts | 12 Additions & 12 Deletions|
+| 2/22/2025, 4:48:24 PM | src/orders/orders.service.ts | 47 Additions & 34 Deletions|
