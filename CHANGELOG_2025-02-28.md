@@ -18,3 +18,5 @@ This file logs the changes made on 2/28/2025.
 | 2/28/2025, 1:04:10 PM | test/unit/helpers/input.js | 5150 Additions & 671 Deletions|
 | 2/28/2025, 1:04:10 PM | test/unit/tree.unittest.js | 10 Additions & 9 Deletions|
 | 2/28/2025, 1:04:10 PM | test/unit/test-results.json | 0 Additions & 0 Deletions|
+| 2/28/2025, 6:06:45 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImageRed/CardBodyNoImageRed.js | 1 Additions & 1 Deletions|
+| 2/28/2025, 6:06:45 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyRed/CardBodyRed.js | 1 Additions & 1 Deletions|
