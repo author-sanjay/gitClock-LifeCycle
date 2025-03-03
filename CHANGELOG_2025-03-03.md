@@ -23,4 +23,5 @@ This file logs the changes made on 3/3/2025.
 | 3/3/2025, 4:02:40 PM | "src/Components/Manager Signage/MeetingTemplate.jsx" | undefined Additions & undefined Deletions|
 | 3/3/2025, 4:32:40 PM | "src/Components/Manager Signage/MeetingTemplate.jsx" | undefined Additions & undefined Deletions|
 | 3/3/2025, 5:02:41 PM | "src/Components/Manager Signage/MeetingTemplate.jsx" | undefined Additions & undefined Deletions|
-| 3/3/2025, 5:32:16 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 3/3/2025, 5:32:32 PM | src/components/contentAi/BackgroundImageController.js | 3 Additions & 0 Deletions|
+| 3/3/2025, 5:32:32 PM | src/components/contentAi/MyLayoutForm.js | 20 Additions & 16 Deletions|
