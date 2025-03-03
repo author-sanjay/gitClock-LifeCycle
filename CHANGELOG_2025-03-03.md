@@ -17,4 +17,6 @@ This file logs the changes made on 3/3/2025.
 | 3/3/2025, 1:37:51 PM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
 | 3/3/2025, 1:37:51 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 3/3/2025, 1:37:51 PM | services/emms.service.js | 1 Additions & 0 Deletions|
-| 3/3/2025, 2:07:45 PM | "src/Components/Manager Signage/MeetingTemplate.jsx" | undefined Additions & undefined Deletions|
+| 3/3/2025, 2:07:50 PM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
+| 3/3/2025, 2:07:50 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 3/3/2025, 2:07:50 PM | services/emms.service.js | 1 Additions & 0 Deletions|
