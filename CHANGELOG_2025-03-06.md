@@ -51,3 +51,4 @@ This file logs the changes made on 3/6/2025.
 | 3/6/2025, 1:33:23 PM | src/Screens/SSEHelper.js | 0 Additions & 0 Deletions|
 | 3/6/2025, 1:33:23 PM | src/Screens/Slider.js | 0 Additions & 0 Deletions|
 | 3/6/2025, 1:33:23 PM | src/store/ | 0 Additions & 0 Deletions|
+| 3/6/2025, 1:51:18 PM | "src/Components/Manager Signage/MeetingTemplate.jsx" | undefined Additions & undefined Deletions|
