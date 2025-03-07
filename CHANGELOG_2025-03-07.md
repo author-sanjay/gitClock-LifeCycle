@@ -10,3 +10,4 @@ This file logs the changes made on 3/7/2025.
 | 3/7/2025, 12:51:05 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 3/7/2025, 1:21:04 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 3/7/2025, 1:51:04 PM | src/Screens/SingleMRCard.js | 0 Additions & 1 Deletions|
+| 3/7/2025, 2:21:04 PM | src/Screens/SingleMRCard.js | 0 Additions & 1 Deletions|
