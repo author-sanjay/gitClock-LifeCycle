@@ -20,3 +20,5 @@ This file logs the changes made on 3/10/2025.
 | 3/10/2025, 4:56:25 PM | src/Screens/SingleMRCard.js | 0 Additions & 1 Deletions|
 | 3/10/2025, 5:04:05 PM | package-lock.json | 0 Additions & 7 Deletions|
 | 3/10/2025, 5:04:05 PM | yarn.lock | 0 Additions & 5 Deletions|
+| 3/10/2025, 5:26:25 PM | src/Components/InputFields/MeetingDetailsInput.js | 14 Additions & 13 Deletions|
+| 3/10/2025, 5:26:25 PM | src/Components/InputFields/TextInputField.js | 24 Additions & 11 Deletions|
