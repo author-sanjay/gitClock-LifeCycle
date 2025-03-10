@@ -18,3 +18,5 @@ This file logs the changes made on 3/10/2025.
 | 3/10/2025, 4:56:25 PM | src/Components/InputFields/TextInputField.js | 4 Additions & 4 Deletions|
 | 3/10/2025, 4:56:25 PM | src/Screens/FutureBookOption.js | 1 Additions & 0 Deletions|
 | 3/10/2025, 4:56:25 PM | src/Screens/SingleMRCard.js | 0 Additions & 1 Deletions|
+| 3/10/2025, 5:04:05 PM | package-lock.json | 0 Additions & 7 Deletions|
+| 3/10/2025, 5:04:05 PM | yarn.lock | 0 Additions & 5 Deletions|
