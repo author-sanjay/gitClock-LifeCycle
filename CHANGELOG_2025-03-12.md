@@ -34,3 +34,7 @@ This file logs the changes made on 3/12/2025.
 | 3/12/2025, 2:47:40 PM | src/Components/Sections/ScrollableCardGrid.js | 5 Additions & 2 Deletions|
 | 3/12/2025, 2:47:40 PM | src/Screens/QuickBookScreen.js | 16 Additions & 26 Deletions|
 | 3/12/2025, 2:47:40 PM | src/Components/Sections/NoRoomAvailable.js | 0 Additions & 0 Deletions|
+| 3/12/2025, 3:17:40 PM | src/Components/Buttons/MRCardButton.js | 1 Additions & 0 Deletions|
+| 3/12/2025, 3:17:40 PM | src/Components/Sections/ScrollableCardGrid.js | 5 Additions & 2 Deletions|
+| 3/12/2025, 3:17:40 PM | src/Screens/QuickBookScreen.js | 16 Additions & 26 Deletions|
+| 3/12/2025, 3:17:40 PM | src/Components/Sections/NoRoomAvailable.js | 0 Additions & 0 Deletions|
