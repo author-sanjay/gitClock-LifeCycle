@@ -24,3 +24,4 @@ This file logs the changes made on 3/13/2025.
 | 3/13/2025, 7:03:58 PM | helpers/OutlookHelper.js | 1 Additions & 1 Deletions|
 | 3/13/2025, 7:03:58 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 3/13/2025, 7:03:58 PM | server.js | 0 Additions & 3 Deletions|
+| 3/13/2025, 7:16:24 PM | src/Components/Helper/Helper.js | 1 Additions & 1 Deletions|
