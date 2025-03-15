@@ -12,3 +12,5 @@ This file logs the changes made on 3/15/2025.
 | 3/15/2025, 8:54:16 AM | base_service.py | 0 Additions & 0 Deletions|
 | 3/15/2025, 8:54:16 AM | iv_sync_modeler.py | 0 Additions & 0 Deletions|
 | 3/15/2025, 8:54:16 AM | iv_sync_service.py | 0 Additions & 0 Deletions|
+| 3/15/2025, 3:57:10 PM | config/default.json | 1 Additions & 1 Deletions|
+| 3/15/2025, 3:57:10 PM | logs/audit.json | 5 Additions & 5 Deletions|
