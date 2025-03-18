@@ -13,4 +13,8 @@ This file logs the changes made on 3/18/2025.
 | 3/18/2025, 3:27:31 PM | src/OutlookUI/OutLookScreenQuickBook.jsx | 45 Additions & 10 Deletions|
 | 3/18/2025, 3:27:31 PM | "src/Assets/Delivery Time.png" | 0 Additions & 0 Deletions|
 | 3/18/2025, 3:27:31 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 0 Additions & 0 Deletions|
-| 3/18/2025, 3:56:12 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 3/18/2025, 3:56:50 PM | api/controllers/outlook.controller.js | 24 Additions & 13 Deletions|
+| 3/18/2025, 3:56:50 PM | helpers/OutlookHelper.js | 43 Additions & 141 Deletions|
+| 3/18/2025, 3:56:50 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 3/18/2025, 3:56:50 PM | server.js | 0 Additions & 3 Deletions|
+| 3/18/2025, 3:56:50 PM | helpers/outlookEmail.helper.js | 0 Additions & 0 Deletions|
