@@ -55,3 +55,7 @@ This file logs the changes made on 3/18/2025.
 | 3/18/2025, 6:03:16 PM | src/OutlookUI/AvailabilityCardList.jsx | 0 Additions & 0 Deletions|
 | 3/18/2025, 6:03:16 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 0 Additions & 0 Deletions|
 | 3/18/2025, 6:03:16 PM | src/OutlookUI/SingleAvailabilityCard.jsx | 0 Additions & 0 Deletions|
+| 3/18/2025, 6:32:43 PM | api/controllers/location.controller.js | 15 Additions & 2 Deletions|
+| 3/18/2025, 6:32:43 PM | api/swagger/swagger.yaml | 25 Additions & 0 Deletions|
+| 3/18/2025, 6:32:43 PM | helpers/LocationIdFromIpHelper.js | 2 Additions & 1 Deletions|
+| 3/18/2025, 6:32:43 PM | logs/audit.json | 10 Additions & 10 Deletions|
