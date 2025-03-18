@@ -77,3 +77,7 @@ This file logs the changes made on 3/18/2025.
 | 3/18/2025, 7:03:16 PM | src/OutlookUI/AvailabilityCardList.jsx | 0 Additions & 0 Deletions|
 | 3/18/2025, 7:03:16 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 0 Additions & 0 Deletions|
 | 3/18/2025, 7:03:16 PM | src/OutlookUI/SingleAvailabilityCard.jsx | 0 Additions & 0 Deletions|
+| 3/19/2025, 1:05:19 AM | package-lock.json | 137 Additions & 0 Deletions|
+| 3/19/2025, 1:05:19 AM | package.json | 1 Additions & 0 Deletions|
+| 3/19/2025, 1:05:19 AM | src/App.js | 23 Additions & 1 Deletions|
+| 3/19/2025, 1:05:19 AM | src/socket.js | 0 Additions & 0 Deletions|
