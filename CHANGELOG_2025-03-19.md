@@ -117,3 +117,14 @@ This file logs the changes made on 3/19/2025.
 | 3/19/2025, 4:28:23 PM | src/OutlookUI/AvailabilityCardList.jsx | 0 Additions & 0 Deletions|
 | 3/19/2025, 4:28:23 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 0 Additions & 0 Deletions|
 | 3/19/2025, 4:28:23 PM | src/OutlookUI/SingleAvailabilityCard.jsx | 0 Additions & 0 Deletions|
+| 3/19/2025, 4:58:23 PM | debug.log | 6 Additions & 0 Deletions|
+| 3/19/2025, 4:58:23 PM | src/Helper/OutLookHelper.js | 84 Additions & 154 Deletions|
+| 3/19/2025, 4:58:23 PM | src/OutlookUI/OutLookLoginScreen.jsx | 4 Additions & 1 Deletions|
+| 3/19/2025, 4:58:23 PM | src/OutlookUI/OutLookScreen.jsx | 40 Additions & 4 Deletions|
+| 3/19/2025, 4:58:23 PM | src/OutlookUI/OutLookScreenAssignRoom.jsx | 99 Additions & 56 Deletions|
+| 3/19/2025, 4:58:23 PM | src/OutlookUI/OutLookScreenQuickBook.jsx | 81 Additions & 11 Deletions|
+| 3/19/2025, 4:58:23 PM | "src/Assets/Delivery Time.png" | 0 Additions & 0 Deletions|
+| 3/19/2025, 4:58:23 PM | "src/Assets/Place Marker.png" | 0 Additions & 0 Deletions|
+| 3/19/2025, 4:58:23 PM | src/OutlookUI/AvailabilityCardList.jsx | 0 Additions & 0 Deletions|
+| 3/19/2025, 4:58:23 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 0 Additions & 0 Deletions|
+| 3/19/2025, 4:58:23 PM | src/OutlookUI/SingleAvailabilityCard.jsx | 0 Additions & 0 Deletions|
