@@ -144,3 +144,4 @@ This file logs the changes made on 3/19/2025.
 | 3/19/2025, 5:58:22 PM | api/swagger/swagger.yaml | 57 Additions & 0 Deletions|
 | 3/19/2025, 5:58:22 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 3/19/2025, 5:58:22 PM | managers/meetingspace.manager.js | 19 Additions & 1 Deletions|
+| 3/19/2025, 6:28:22 PM | src/Helper/OutLookHelper.js | 9 Additions & 9 Deletions|
