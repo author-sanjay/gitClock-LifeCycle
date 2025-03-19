@@ -75,8 +75,14 @@ This file logs the changes made on 3/19/2025.
 | 3/19/2025, 12:56:45 PM | src/OutlookUI/AvailabilityCardList.jsx | 0 Additions & 0 Deletions|
 | 3/19/2025, 12:56:45 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 0 Additions & 0 Deletions|
 | 3/19/2025, 12:56:45 PM | src/OutlookUI/SingleAvailabilityCard.jsx | 0 Additions & 0 Deletions|
-| 3/19/2025, 1:25:57 PM | api/controllers/location.controller.js | 15 Additions & 2 Deletions|
-| 3/19/2025, 1:25:57 PM | api/swagger/swagger.yaml | 25 Additions & 0 Deletions|
-| 3/19/2025, 1:25:57 PM | helpers/LocationIdFromIpHelper.js | 2 Additions & 1 Deletions|
-| 3/19/2025, 1:25:57 PM | logs/audit.json | 15 Additions & 15 Deletions|
-| 3/19/2025, 1:25:57 PM | managers/meetingspace.manager.js | 3 Additions & 0 Deletions|
+| 3/19/2025, 1:26:44 PM | debug.log | 6 Additions & 0 Deletions|
+| 3/19/2025, 1:26:44 PM | src/Helper/OutLookHelper.js | 84 Additions & 154 Deletions|
+| 3/19/2025, 1:26:44 PM | src/OutlookUI/OutLookLoginScreen.jsx | 4 Additions & 1 Deletions|
+| 3/19/2025, 1:26:44 PM | src/OutlookUI/OutLookScreen.jsx | 25 Additions & 5 Deletions|
+| 3/19/2025, 1:26:44 PM | src/OutlookUI/OutLookScreenAssignRoom.jsx | 99 Additions & 56 Deletions|
+| 3/19/2025, 1:26:44 PM | src/OutlookUI/OutLookScreenQuickBook.jsx | 81 Additions & 11 Deletions|
+| 3/19/2025, 1:26:44 PM | "src/Assets/Delivery Time.png" | 0 Additions & 0 Deletions|
+| 3/19/2025, 1:26:44 PM | "src/Assets/Place Marker.png" | 0 Additions & 0 Deletions|
+| 3/19/2025, 1:26:44 PM | src/OutlookUI/AvailabilityCardList.jsx | 0 Additions & 0 Deletions|
+| 3/19/2025, 1:26:44 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 0 Additions & 0 Deletions|
+| 3/19/2025, 1:26:44 PM | src/OutlookUI/SingleAvailabilityCard.jsx | 0 Additions & 0 Deletions|
