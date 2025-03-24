@@ -11,3 +11,12 @@ This file logs the changes made on 3/24/2025.
 | 3/24/2025, 10:38:43 AM | storage/ | 0 Additions & 0 Deletions |
 | 3/24/2025, 10:38:43 AM | text-webp | 0 Additions & 0 Deletions |
 | 3/24/2025, 10:38:43 AM | text.webp | 0 Additions & 0 Deletions |
+| 3/24/2025, 11:38:06 PM | app.json | 16 Additions & 2 Deletions|
+| 3/24/2025, 11:38:06 PM | app/(tabs)/_layout.tsx | 1 Additions & 7 Deletions|
+| 3/24/2025, 11:38:06 PM | app/(tabs)/explore.tsx | 0 Additions & 0 Deletions|
+| 3/24/2025, 11:38:06 PM | app/(tabs)/index.tsx | 31 Additions & 62 Deletions|
+| 3/24/2025, 11:38:06 PM | package-lock.json | 20 Additions & 0 Deletions|
+| 3/24/2025, 11:38:06 PM | package.json | 4 Additions & 3 Deletions|
+| 3/24/2025, 11:38:06 PM | android/ | 0 Additions & 0 Deletions|
+| 3/24/2025, 11:38:06 PM | app/(tabs)/QR.tsx | 0 Additions & 0 Deletions|
+| 3/24/2025, 11:38:06 PM | ios/ | 0 Additions & 0 Deletions|
