@@ -20,3 +20,5 @@ This file logs the changes made on 3/25/2025.
 | 3/25/2025, 12:10:59 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 1 Additions & 1 Deletions|
 | 3/25/2025, 12:40:59 PM | src/Helper/OutLookHelper.js | 9 Additions & 9 Deletions|
 | 3/25/2025, 12:40:59 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 1 Additions & 1 Deletions|
+| 3/25/2025, 1:11:46 PM | src/Helper/OutLookHelper.js | 9 Additions & 9 Deletions|
+| 3/25/2025, 1:11:46 PM | src/OutlookUI/OutLookTimeAndCalendarSelect.jsx | 1 Additions & 1 Deletions|
