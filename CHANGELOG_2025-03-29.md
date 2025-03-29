@@ -13,3 +13,9 @@ This file logs the changes made on 3/29/2025.
 | 3/29/2025, 3:46:46 PM | src/Screens/SingleMRCard.js | 1 Additions & 1 Deletions |
 | 3/29/2025, 3:46:46 PM | src/Screens/WelcomeScreen.js | 26 Additions & 1 Deletions |
 | 3/29/2025, 3:46:46 PM | src/Components/Sections/NoRoomAvailable.js | 0 Additions & 0 Deletions |
+| 3/29/2025, 3:46:47 PM | api/controllers/location.controller.js | 13 Additions & 0 Deletions|
+| 3/29/2025, 3:46:47 PM | api/controllers/meetingspace.controller.js | 20 Additions & 0 Deletions|
+| 3/29/2025, 3:46:47 PM | api/swagger/swagger.yaml | 63 Additions & 6 Deletions|
+| 3/29/2025, 3:46:47 PM | helpers/LocationIdFromIpHelper.js | 1 Additions & 1 Deletions|
+| 3/29/2025, 3:46:47 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 3/29/2025, 3:46:47 PM | managers/meetingspace.manager.js | 19 Additions & 1 Deletions|
