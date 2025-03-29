@@ -19,3 +19,7 @@ This file logs the changes made on 3/29/2025.
 | 3/29/2025, 3:46:47 PM | helpers/LocationIdFromIpHelper.js | 1 Additions & 1 Deletions|
 | 3/29/2025, 3:46:47 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 3/29/2025, 3:46:47 PM | managers/meetingspace.manager.js | 19 Additions & 1 Deletions|
+| 3/29/2025, 6:32:30 PM | api/swagger/swagger.yaml | 125 Additions & 0 Deletions|
+| 3/29/2025, 6:32:30 PM | config/default.json | 6 Additions & 3 Deletions|
+| 3/29/2025, 6:32:30 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 3/29/2025, 6:32:30 PM | models/Users.js | 0 Additions & 0 Deletions|
