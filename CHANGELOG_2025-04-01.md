@@ -16,3 +16,14 @@ This file logs the changes made on 4/1/2025.
 | 4/1/2025, 10:26:04 AM | managers/rfid.manager.js | 0 Additions & 0 Deletions |
 | 4/1/2025, 10:26:04 AM | migrations/20250329130532-create-users-table.js | 0 Additions & 0 Deletions |
 | 4/1/2025, 10:26:04 AM | models/Users.js | 0 Additions & 0 Deletions |
+| 4/1/2025, 10:26:19 AM | package-lock.json | 7 Additions & 0 Deletions|
+| 4/1/2025, 10:26:19 AM | package.json | 1 Additions & 0 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Components/Buttons/MRCardButton.js | 40 Additions & 6 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Components/Sections/ScrollableCardGrid.js | 8 Additions & 3 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Screens/BookingOptions.js | 7 Additions & 4 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Screens/FutureBookOption.js | 9 Additions & 3 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Screens/QuickBookScreen.js | 54 Additions & 30 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Screens/SingleMRCard.js | 1 Additions & 1 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Screens/WelcomeScreen.js | 68 Additions & 18 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Components/Sections/NoRoomAvailable.js | 0 Additions & 0 Deletions|
+| 4/1/2025, 10:26:19 AM | src/Screens/UserDetailsModel.js | 0 Additions & 0 Deletions|
