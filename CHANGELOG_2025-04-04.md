@@ -128,3 +128,6 @@ This file logs the changes made on 4/4/2025.
 | 4/4/2025, 6:30:01 PM | src/Screens/SuccessScreen.js | 1 Additions & 1 Deletions|
 | 4/4/2025, 6:30:01 PM | src/Screens/UserDetailsModel.js | 1 Additions & 1 Deletions|
 | 4/4/2025, 6:30:01 PM | src/Screens/WelcomeScreen.js | 42 Additions & 8 Deletions|
+| 4/4/2025, 7:00:01 PM | api/swagger/swagger.yaml | 3 Additions & 3 Deletions|
+| 4/4/2025, 7:00:01 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 4/4/2025, 7:00:01 PM | managers/postbox.manager.js | 11 Additions & 4 Deletions|
