@@ -80,3 +80,6 @@ This file logs the changes made on 4/4/2025.
 | 4/4/2025, 3:30:02 PM | src/Screens/SuccessScreen.js | 1 Additions & 1 Deletions|
 | 4/4/2025, 3:30:02 PM | src/Screens/UserDetailsModel.js | 1 Additions & 1 Deletions|
 | 4/4/2025, 3:30:02 PM | src/Screens/WelcomeScreen.js | 21 Additions & 7 Deletions|
+| 4/4/2025, 4:00:00 PM | api/swagger/swagger.yaml | 3 Additions & 3 Deletions|
+| 4/4/2025, 4:00:00 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 4/4/2025, 4:00:00 PM | managers/postbox.manager.js | 11 Additions & 4 Deletions|
