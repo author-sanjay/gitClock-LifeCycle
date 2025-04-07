@@ -6,3 +6,5 @@ This file logs the changes made on 4/7/2025.
 |------------------------|-----------------------------------|-----------------------------|
 | 4/7/2025, 11:49:32 AM | api/swagger/swagger.yaml | 18 Additions & 13 Deletions |
 | 4/7/2025, 11:49:32 AM | logs/audit.json | 5 Additions & 5 Deletions |
+| 4/7/2025, 12:18:53 PM | src/Screens/UserDetailsModel.js | 60 Additions & 19 Deletions|
+| 4/7/2025, 12:18:53 PM | src/Screens/WelcomeScreen.js | 1 Additions & 1 Deletions|
