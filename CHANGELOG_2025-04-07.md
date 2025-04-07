@@ -8,5 +8,5 @@ This file logs the changes made on 4/7/2025.
 | 4/7/2025, 11:49:32 AM | logs/audit.json | 5 Additions & 5 Deletions |
 | 4/7/2025, 12:19:32 PM | api/swagger/swagger.yaml | 18 Additions & 13 Deletions|
 | 4/7/2025, 12:19:32 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 4/7/2025, 12:48:54 PM | src/Screens/UserDetailsModel.js | 60 Additions & 19 Deletions|
-| 4/7/2025, 12:48:54 PM | src/Screens/WelcomeScreen.js | 1 Additions & 1 Deletions|
+| 4/7/2025, 12:49:32 PM | api/swagger/swagger.yaml | 18 Additions & 13 Deletions|
+| 4/7/2025, 12:49:32 PM | logs/audit.json | 5 Additions & 5 Deletions|
