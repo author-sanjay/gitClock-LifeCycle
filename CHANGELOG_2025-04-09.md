@@ -77,3 +77,4 @@ This file logs the changes made on 4/9/2025.
 | 4/9/2025, 6:34:52 PM | package.json | 0 Additions & 0 Deletions|
 | 4/9/2025, 6:34:52 PM | public/ | 0 Additions & 0 Deletions|
 | 4/9/2025, 6:34:52 PM | src/ | 0 Additions & 0 Deletions|
+| 4/9/2025, 7:04:51 PM | managers/rfid.manager.js | 1 Additions & 1 Deletions|
