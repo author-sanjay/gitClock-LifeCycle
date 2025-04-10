@@ -44,3 +44,7 @@ This file logs the changes made on 4/10/2025.
 | 4/10/2025, 4:39:28 PM | api/controllers/screenusers.controller.js | 5 Additions & 5 Deletions|
 | 4/10/2025, 4:39:28 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 4/10/2025, 4:39:28 PM | server.js | 4 Additions & 4 Deletions|
+| 4/10/2025, 5:09:28 PM | api/controllers/screenusers.controller.js | 9 Additions & 9 Deletions|
+| 4/10/2025, 5:09:28 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
+| 4/10/2025, 5:09:28 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 4/10/2025, 5:09:28 PM | server.js | 4 Additions & 4 Deletions|
