@@ -48,3 +48,6 @@ This file logs the changes made on 4/10/2025.
 | 4/10/2025, 5:09:28 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
 | 4/10/2025, 5:09:28 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 4/10/2025, 5:09:28 PM | server.js | 4 Additions & 4 Deletions|
+| 4/10/2025, 5:31:39 PM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
+| 4/10/2025, 5:31:39 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 4/10/2025, 5:31:39 PM | services/emms.service.js | 1 Additions & 0 Deletions|
