@@ -29,3 +29,6 @@ This file logs the changes made on 4/10/2025.
 | 4/10/2025, 11:58:14 AM | package.json | 0 Additions & 0 Deletions|
 | 4/10/2025, 11:58:14 AM | public/ | 0 Additions & 0 Deletions|
 | 4/10/2025, 11:58:14 AM | src/ | 0 Additions & 0 Deletions|
+| 4/10/2025, 3:09:32 PM | api/controllers/screenusers.controller.js | 5 Additions & 5 Deletions|
+| 4/10/2025, 3:09:32 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 4/10/2025, 3:09:32 PM | server.js | 4 Additions & 4 Deletions|
