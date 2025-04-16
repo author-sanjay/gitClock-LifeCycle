@@ -30,3 +30,7 @@ This file logs the changes made on 4/16/2025.
 | 4/16/2025, 12:33:44 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
 | 4/16/2025, 12:33:44 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 4/16/2025, 12:33:44 PM | server.js | 12 Additions & 12 Deletions|
+| 4/16/2025, 2:12:28 PM | api/controllers/screenusers.controller.js | 9 Additions & 9 Deletions|
+| 4/16/2025, 2:12:28 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
+| 4/16/2025, 2:12:28 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 4/16/2025, 2:12:28 PM | server.js | 12 Additions & 12 Deletions|
