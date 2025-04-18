@@ -61,3 +61,6 @@ This file logs the changes made on 4/18/2025.
 | 4/18/2025, 3:57:17 PM | server.js | 12 Additions & 12 Deletions|
 | 4/18/2025, 4:27:14 PM | src/components/contentAi/MyEventCustomisationForm.js | 1 Additions & 1 Deletions|
 | 4/18/2025, 5:01:17 PM | src/components/contentAi/MyEventCustomisationForm.js | 1 Additions & 1 Deletions|
+| 4/18/2025, 5:46:36 PM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
+| 4/18/2025, 5:46:36 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 4/18/2025, 5:46:36 PM | services/emms.service.js | 1 Additions & 0 Deletions|
