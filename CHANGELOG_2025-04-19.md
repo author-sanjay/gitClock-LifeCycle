@@ -16,3 +16,6 @@ This file logs the changes made on 4/19/2025.
 | 4/19/2025, 1:28:11 PM | src/Components/Home/Main.js | 3 Additions & 0 Deletions|
 | 4/19/2025, 2:46:06 PM | src/Components/Helper/Helper.js | 9 Additions & 0 Deletions|
 | 4/19/2025, 2:46:06 PM | src/Components/Home/Main.js | 3 Additions & 0 Deletions|
+| 4/19/2025, 4:24:44 PM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
+| 4/19/2025, 4:24:44 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 4/19/2025, 4:24:44 PM | services/emms.service.js | 1 Additions & 0 Deletions|
