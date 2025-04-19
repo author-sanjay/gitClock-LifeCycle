@@ -8,3 +8,6 @@ This file logs the changes made on 4/19/2025.
 | 4/19/2025, 11:21:29 AM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions |
 | 4/19/2025, 11:21:29 AM | logs/audit.json | 15 Additions & 15 Deletions |
 | 4/19/2025, 11:21:29 AM | server.js | 12 Additions & 12 Deletions |
+| 4/19/2025, 11:21:54 AM | api/swagger/swagger.yaml | 2 Additions & 2 Deletions|
+| 4/19/2025, 11:21:54 AM | logs/audit.json | 15 Additions & 15 Deletions|
+| 4/19/2025, 11:21:54 AM | services/emms.service.js | 1 Additions & 0 Deletions|
