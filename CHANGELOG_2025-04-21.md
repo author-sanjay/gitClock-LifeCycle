@@ -11,3 +11,7 @@ This file logs the changes made on 4/21/2025.
 | 4/21/2025, 5:43:12 PM | src/index.js | 5 Additions & 0 Deletions |
 | 4/21/2025, 5:43:12 PM | sentry-wizard-installation-error-1745237067494.log | 0 Additions & 0 Deletions |
 | 4/21/2025, 5:43:12 PM | sentry-wizard-installation-error-1745237143012.log | 0 Additions & 0 Deletions |
+| 4/21/2025, 6:02:38 PM | api/controllers/screenusers.controller.js | 9 Additions & 9 Deletions|
+| 4/21/2025, 6:02:38 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
+| 4/21/2025, 6:02:38 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 4/21/2025, 6:02:38 PM | server.js | 12 Additions & 12 Deletions|
