@@ -35,3 +35,19 @@ This file logs the changes made on 4/22/2025.
 | 4/22/2025, 5:18:24 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 4/22/2025, 5:18:24 PM | server.js | 12 Additions & 12 Deletions|
 | 4/22/2025, 5:48:24 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxDown.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxDownLeft.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxDownRight.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxDownstairs.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxLeft.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxRight.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxUp.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxUpLeft.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxUpRight.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | "src/Components/Directions Component/BoxUpstairs.js" | undefined Additions & undefined Deletions|
+| 4/22/2025, 6:18:23 PM | src/Components/NavigatorScreen/Components/LeftSide/LeftBottom/LeftBottomTime.js | 16 Additions & 2 Deletions|
+| 4/22/2025, 6:18:23 PM | src/Components/NavigatorScreen/Components/LeftSide/LeftTop/LeftTopContainer.js | 7 Additions & 3 Deletions|
+| 4/22/2025, 6:18:23 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImage/CardBodyNoImage.css | 10 Additions & 10 Deletions|
+| 4/22/2025, 6:18:23 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImageRed/CardBodyNoImageRed.js | 27 Additions & 16 Deletions|
+| 4/22/2025, 6:18:23 PM | src/Components/NavigatorScreen/Components/SingleMRCard/SingleNoImageCardRed.js | 8 Additions & 6 Deletions|
+| 4/22/2025, 6:18:23 PM | src/Components/NavigatorScreen/NavigatorScreen.js | 12 Additions & 1 Deletions|
