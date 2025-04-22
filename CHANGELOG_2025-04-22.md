@@ -22,3 +22,4 @@ This file logs the changes made on 4/22/2025.
 | 4/22/2025, 12:34:50 PM | src/index.js | 5 Additions & 0 Deletions|
 | 4/22/2025, 12:34:50 PM | sentry-wizard-installation-error-1745237067494.log | 0 Additions & 0 Deletions|
 | 4/22/2025, 12:34:50 PM | sentry-wizard-installation-error-1745237143012.log | 0 Additions & 0 Deletions|
+| 4/22/2025, 1:04:49 PM | src/Components/NavigatorScreen/NavigatorScreen.js | 1 Additions & 1 Deletions|
