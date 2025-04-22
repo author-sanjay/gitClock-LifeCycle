@@ -67,3 +67,5 @@ This file logs the changes made on 4/22/2025.
 | 4/22/2025, 6:48:23 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImageRed/CardBodyNoImageRed.js | 27 Additions & 16 Deletions|
 | 4/22/2025, 6:48:23 PM | src/Components/NavigatorScreen/Components/SingleMRCard/SingleNoImageCardRed.js | 8 Additions & 6 Deletions|
 | 4/22/2025, 6:48:23 PM | src/Components/NavigatorScreen/NavigatorScreen.js | 12 Additions & 1 Deletions|
+| 4/22/2025, 10:18:05 PM | app/(tabs)/_layout.tsx | 3 Additions & 35 Deletions|
+| 4/22/2025, 10:18:05 PM | app/(tabs)/index.tsx | 1 Additions & 0 Deletions|
