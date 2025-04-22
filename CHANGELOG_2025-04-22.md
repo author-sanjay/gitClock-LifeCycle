@@ -24,3 +24,7 @@ This file logs the changes made on 4/22/2025.
 | 4/22/2025, 12:34:50 PM | sentry-wizard-installation-error-1745237143012.log | 0 Additions & 0 Deletions|
 | 4/22/2025, 1:04:49 PM | src/Components/NavigatorScreen/NavigatorScreen.js | 1 Additions & 1 Deletions|
 | 4/22/2025, 1:11:39 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 4/22/2025, 1:34:49 PM | api/controllers/screenusers.controller.js | 9 Additions & 9 Deletions|
+| 4/22/2025, 1:34:49 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
+| 4/22/2025, 1:34:49 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 4/22/2025, 1:34:49 PM | server.js | 12 Additions & 12 Deletions|
