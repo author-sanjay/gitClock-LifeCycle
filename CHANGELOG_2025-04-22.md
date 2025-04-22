@@ -28,3 +28,4 @@ This file logs the changes made on 4/22/2025.
 | 4/22/2025, 1:34:49 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
 | 4/22/2025, 1:34:49 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 4/22/2025, 1:34:49 PM | server.js | 12 Additions & 12 Deletions|
+| 4/22/2025, 1:41:39 PM | logs/audit.json | 5 Additions & 5 Deletions|
