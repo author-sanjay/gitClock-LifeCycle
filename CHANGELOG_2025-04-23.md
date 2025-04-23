@@ -10,3 +10,8 @@ This file logs the changes made on 4/23/2025.
 | 4/23/2025, 12:31:19 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
 | 4/23/2025, 12:31:19 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 4/23/2025, 12:31:19 PM | server.js | 12 Additions & 12 Deletions|
+| 4/23/2025, 1:01:16 PM | "src/Components/Manager Signage/ShowAvailableFallback.js" | undefined Additions & undefined Deletions|
+| 4/23/2025, 1:01:16 PM | "src/Components/Manager Signage/ShowDefaultFallBack.js" | undefined Additions & undefined Deletions|
+| 4/23/2025, 1:01:16 PM | src/Components/NavigatorScreen/Components/LeftSide/LeftBottom/LeftBottomTime.js | 4 Additions & 1 Deletions|
+| 4/23/2025, 1:01:16 PM | src/Components/NavigatorScreen/Components/SingleMRCard/SingleNoImageCardRed.js | 1 Additions & 1 Deletions|
+| 4/23/2025, 1:01:16 PM | src/Components/NavigatorScreen/NavigatorScreen.js | 2 Additions & 2 Deletions|
