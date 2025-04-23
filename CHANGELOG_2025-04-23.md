@@ -18,3 +18,4 @@ This file logs the changes made on 4/23/2025.
 | 4/23/2025, 3:35:12 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 4/23/2025, 4:05:12 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 4/23/2025, 4:35:12 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 4/23/2025, 5:01:15 PM | src/Components/NavigatorScreen/Components/LeftSide/LeftTop/LeftTopLogo.js | 3 Additions & 2 Deletions|
