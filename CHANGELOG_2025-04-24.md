@@ -24,4 +24,6 @@ This file logs the changes made on 4/24/2025.
 | 4/24/2025, 1:08:36 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
 | 4/24/2025, 1:08:36 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 4/24/2025, 1:08:36 PM | server.js | 12 Additions & 12 Deletions|
-| 4/24/2025, 1:35:44 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 4/24/2025, 1:38:36 PM | src/Components/Banquet/BanquetOnGoingMeetingDisplay.js | 4 Additions & 1 Deletions|
+| 4/24/2025, 1:38:36 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImageRed/CardBodyNoImageRed.js | 2 Additions & 2 Deletions|
+| 4/24/2025, 1:38:36 PM | src/Components/NavigatorScreen/Components/SingleMRCard/SingleNoImageCardRed.js | 1 Additions & 1 Deletions|
