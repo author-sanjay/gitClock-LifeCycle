@@ -12,3 +12,6 @@ This file logs the changes made on 4/25/2025.
 | 4/26/2025, 3:08:16 AM | app/(tabs)/AuthController.tsx | 1 Additions & 1 Deletions|
 | 4/26/2025, 3:08:16 AM | app/(tabs)/Login.tsx | 0 Additions & 0 Deletions|
 | 4/26/2025, 3:08:16 AM | app/(tabs)/Pages/ | 0 Additions & 0 Deletions|
+| 4/26/2025, 3:38:16 AM | app/(tabs)/AuthController.tsx | 1 Additions & 1 Deletions|
+| 4/26/2025, 3:38:16 AM | app/(tabs)/Login.tsx | 0 Additions & 0 Deletions|
+| 4/26/2025, 3:38:16 AM | app/(tabs)/Pages/ | 0 Additions & 0 Deletions|
