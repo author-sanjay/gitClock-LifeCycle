@@ -29,3 +29,6 @@ This file logs the changes made on 4/28/2025.
 | 4/29/2025, 4:51:43 AM | app/(tabs)/AuthController.tsx | 1 Additions & 1 Deletions|
 | 4/29/2025, 4:51:43 AM | app/(tabs)/index.tsx | 66 Additions & 22 Deletions|
 | 4/29/2025, 4:51:43 AM | app/(tabs)/Components/ | 0 Additions & 0 Deletions|
+| 4/29/2025, 5:21:43 AM | app/(tabs)/AuthController.tsx | 1 Additions & 1 Deletions|
+| 4/29/2025, 5:21:43 AM | app/(tabs)/index.tsx | 66 Additions & 22 Deletions|
+| 4/29/2025, 5:21:43 AM | app/(tabs)/Components/ | 0 Additions & 0 Deletions|
