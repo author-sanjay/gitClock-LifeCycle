@@ -26,3 +26,6 @@ This file logs the changes made on 4/28/2025.
 | 4/28/2025, 7:15:20 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
 | 4/28/2025, 7:15:20 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 4/28/2025, 7:15:20 PM | server.js | 12 Additions & 12 Deletions|
+| 4/29/2025, 4:51:43 AM | app/(tabs)/AuthController.tsx | 1 Additions & 1 Deletions|
+| 4/29/2025, 4:51:43 AM | app/(tabs)/index.tsx | 66 Additions & 22 Deletions|
+| 4/29/2025, 4:51:43 AM | app/(tabs)/Components/ | 0 Additions & 0 Deletions|
