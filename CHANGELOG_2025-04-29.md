@@ -16,3 +16,4 @@ This file logs the changes made on 4/29/2025.
 | 4/29/2025, 12:35:49 PM | api/swagger/swagger.yaml | 4 Additions & 4 Deletions|
 | 4/29/2025, 12:35:49 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 4/29/2025, 12:35:49 PM | server.js | 12 Additions & 12 Deletions|
+| 4/29/2025, 12:46:24 PM | src/Components/Banquet/Banquet.js | 18 Additions & 0 Deletions|
