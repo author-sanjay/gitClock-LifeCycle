@@ -39,3 +39,6 @@ This file logs the changes made on 5/5/2025.
 | 5/5/2025, 3:34:04 PM | src/instrument.js | 2 Additions & 0 Deletions|
 | 5/5/2025, 3:45:22 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 5/5/2025, 3:45:22 PM | sequelize.js | 1 Additions & 1 Deletions|
+| 5/5/2025, 4:03:49 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 5/5/2025, 4:03:49 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/5/2025, 4:03:49 PM | server.js | 29 Additions & 28 Deletions|
