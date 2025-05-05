@@ -31,3 +31,5 @@ This file logs the changes made on 5/5/2025.
 | 5/5/2025, 2:45:22 PM | sequelize.js | 1 Additions & 1 Deletions|
 | 5/5/2025, 3:04:05 PM | src/Components/Home/Components/FinalLayerFree.js | 1 Additions & 0 Deletions|
 | 5/5/2025, 3:04:05 PM | src/Components/Home/Main.js | 24 Additions & 20 Deletions|
+| 5/5/2025, 3:15:22 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/5/2025, 3:15:22 PM | sequelize.js | 1 Additions & 1 Deletions|
