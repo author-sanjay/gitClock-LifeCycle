@@ -47,3 +47,5 @@ This file logs the changes made on 5/5/2025.
 | 5/5/2025, 4:04:04 PM | src/index.js | 18 Additions & 3 Deletions|
 | 5/5/2025, 4:04:04 PM | src/instrument.js | 2 Additions & 0 Deletions|
 | 5/5/2025, 4:04:04 PM | sentry-wizard-installation-error-1746439666727.log | 0 Additions & 0 Deletions|
+| 5/5/2025, 4:15:22 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/5/2025, 4:15:22 PM | sequelize.js | 1 Additions & 1 Deletions|
