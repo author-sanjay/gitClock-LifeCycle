@@ -33,3 +33,6 @@ This file logs the changes made on 5/5/2025.
 | 5/5/2025, 3:04:05 PM | src/Components/Home/Main.js | 24 Additions & 20 Deletions|
 | 5/5/2025, 3:15:22 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 5/5/2025, 3:15:22 PM | sequelize.js | 1 Additions & 1 Deletions|
+| 5/5/2025, 3:33:49 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 5/5/2025, 3:33:49 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/5/2025, 3:33:49 PM | server.js | 29 Additions & 28 Deletions|
