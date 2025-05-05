@@ -79,3 +79,6 @@ This file logs the changes made on 5/5/2025.
 | 5/5/2025, 6:06:43 PM | sentry-wizard-installation-error-1746439666727.log | 0 Additions & 0 Deletions|
 | 5/5/2025, 6:15:23 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 5/5/2025, 6:15:23 PM | sequelize.js | 1 Additions & 1 Deletions|
+| 5/5/2025, 6:36:43 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 5/5/2025, 6:36:43 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/5/2025, 6:36:43 PM | server.js | 29 Additions & 28 Deletions|
