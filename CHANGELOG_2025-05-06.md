@@ -91,3 +91,10 @@ This file logs the changes made on 5/6/2025.
 | 5/6/2025, 6:08:05 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
 | 5/6/2025, 6:08:05 PM | src/instrument.js | 2 Additions & 2 Deletions|
 | 5/6/2025, 6:08:05 PM | sentry-wizard-installation-error-1746439666727.log | 0 Additions & 0 Deletions|
+| 5/6/2025, 6:38:05 PM | .gitignore | 3 Additions & 0 Deletions|
+| 5/6/2025, 6:38:05 PM | package-lock.json | 171 Additions & 0 Deletions|
+| 5/6/2025, 6:38:05 PM | package.json | 5 Additions & 3 Deletions|
+| 5/6/2025, 6:38:05 PM | src/Components/Home/Main.js | 26 Additions & 20 Deletions|
+| 5/6/2025, 6:38:05 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 5/6/2025, 6:38:05 PM | src/instrument.js | 2 Additions & 2 Deletions|
+| 5/6/2025, 6:38:05 PM | sentry-wizard-installation-error-1746439666727.log | 0 Additions & 0 Deletions|
