@@ -18,3 +18,6 @@ This file logs the changes made on 5/20/2025.
 | 5/20/2025, 12:07:24 PM | src/Components/Home/Components/FinalLayerFree.js | 5 Additions & 5 Deletions|
 | 5/20/2025, 12:07:24 PM | .env | 0 Additions & 0 Deletions|
 | 5/20/2025, 12:07:24 PM | .sentryclirc | 0 Additions & 0 Deletions|
+| 5/20/2025, 12:24:30 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 5/20/2025, 12:24:30 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/20/2025, 12:24:30 PM | server.js | 8 Additions & 8 Deletions|
