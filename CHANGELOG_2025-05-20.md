@@ -25,3 +25,7 @@ This file logs the changes made on 5/20/2025.
 | 5/20/2025, 12:37:24 PM | src/Components/Home/Components/FinalLayerFree.js | 5 Additions & 5 Deletions|
 | 5/20/2025, 12:37:24 PM | .env | 0 Additions & 0 Deletions|
 | 5/20/2025, 12:37:24 PM | .sentryclirc | 0 Additions & 0 Deletions|
+| 5/20/2025, 5:48:03 PM | src/Components/ScreenSelect.jsx | 5 Additions & 14 Deletions|
+| 5/20/2025, 5:48:03 PM | src/Screens/NavigatorSignage.jsx | 177 Additions & 2 Deletions|
+| 5/20/2025, 5:48:03 PM | src/Screens/NavigatorTemplateViewer.jsx | 0 Additions & 0 Deletions|
+| 5/20/2025, 5:48:03 PM | src/Screens/PlaylistRotator.jsx | 0 Additions & 0 Deletions|
