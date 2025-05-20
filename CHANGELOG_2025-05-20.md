@@ -33,3 +33,7 @@ This file logs the changes made on 5/20/2025.
 | 5/20/2025, 6:18:03 PM | src/Screens/NavigatorSignage.jsx | 177 Additions & 2 Deletions|
 | 5/20/2025, 6:18:03 PM | src/Screens/NavigatorTemplateViewer.jsx | 0 Additions & 0 Deletions|
 | 5/20/2025, 6:18:03 PM | src/Screens/PlaylistRotator.jsx | 0 Additions & 0 Deletions|
+| 5/20/2025, 6:48:05 PM | src/Components/ScreenSelect.jsx | 5 Additions & 14 Deletions|
+| 5/20/2025, 6:48:05 PM | src/Screens/NavigatorSignage.jsx | 177 Additions & 2 Deletions|
+| 5/20/2025, 6:48:05 PM | src/Screens/NavigatorTemplateViewer.jsx | 0 Additions & 0 Deletions|
+| 5/20/2025, 6:48:05 PM | src/Screens/PlaylistRotator.jsx | 0 Additions & 0 Deletions|
