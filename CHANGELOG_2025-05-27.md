@@ -11,5 +11,6 @@ This file logs the changes made on 5/27/2025.
 | 5/27/2025, 12:55:29 PM | src/Helper/Template.jsx | 0 Additions & 0 Deletions |
 | 5/27/2025, 12:55:29 PM | src/Screens/NavigatorTemplateViewer.jsx | 0 Additions & 0 Deletions |
 | 5/27/2025, 12:55:29 PM | src/Screens/PlaylistRotator.jsx | 0 Additions & 0 Deletions |
-| 5/27/2025, 12:55:31 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 5/27/2025, 12:55:31 PM | server.js | 6 Additions & 0 Deletions|
+| 5/27/2025, 12:56:11 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/27/2025, 12:56:11 PM | sequelize.js | 0 Additions & 1 Deletions|
+| 5/27/2025, 12:56:11 PM | services/emms.service.js | 1 Additions & 1 Deletions|
