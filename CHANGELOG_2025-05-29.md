@@ -14,6 +14,4 @@ This file logs the changes made on 5/29/2025.
 | 5/29/2025, 11:02:19 AM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
 | 5/29/2025, 11:02:19 AM | logs/audit.json | 10 Additions & 10 Deletions|
 | 5/29/2025, 11:02:19 AM | server.js | 6 Additions & 0 Deletions|
-| 5/29/2025, 11:08:18 AM | logs/audit.json | 15 Additions & 15 Deletions|
-| 5/29/2025, 11:08:18 AM | sequelize.js | 0 Additions & 1 Deletions|
-| 5/29/2025, 11:08:18 AM | services/emms.service.js | 1 Additions & 1 Deletions|
+| 5/29/2025, 11:10:11 AM | src/components/contentAi/MyEventCustomisationForm.js | 1 Additions & 1 Deletions|
