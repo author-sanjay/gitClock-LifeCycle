@@ -28,3 +28,4 @@ This file logs the changes made on 5/29/2025.
 | 5/29/2025, 1:22:10 PM | src/Helper/Template.jsx | 0 Additions & 0 Deletions|
 | 5/29/2025, 1:22:10 PM | src/Screens/NavigatorTemplateViewer.jsx | 0 Additions & 0 Deletions|
 | 5/29/2025, 1:22:10 PM | src/Screens/PlaylistRotator.jsx | 0 Additions & 0 Deletions|
+| 5/29/2025, 1:52:10 PM | src/components/contentAi/MyEventCustomisationForm.js | 1 Additions & 1 Deletions|
