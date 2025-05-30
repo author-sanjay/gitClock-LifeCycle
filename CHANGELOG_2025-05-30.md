@@ -28,3 +28,6 @@ This file logs the changes made on 5/30/2025.
 | 5/30/2025, 11:59:23 AM | src/Helper/Template.jsx | 0 Additions & 0 Deletions|
 | 5/30/2025, 11:59:23 AM | src/Screens/NavigatorTemplateViewer.jsx | 0 Additions & 0 Deletions|
 | 5/30/2025, 11:59:23 AM | src/Screens/PlaylistRotator.jsx | 0 Additions & 0 Deletions|
+| 5/30/2025, 1:19:06 PM | api/controllers/screenusers.controller.js | 8 Additions & 8 Deletions|
+| 5/30/2025, 1:19:06 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/30/2025, 1:19:06 PM | server.js | 6 Additions & 0 Deletions|
