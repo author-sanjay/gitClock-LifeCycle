@@ -35,3 +35,6 @@ This file logs the changes made on 5/30/2025.
 | 5/30/2025, 1:49:06 PM | sequelize.js | 0 Additions & 1 Deletions|
 | 5/30/2025, 1:49:06 PM | services/emms.service.js | 1 Additions & 1 Deletions|
 | 5/30/2025, 2:19:13 PM | src/components/contentAi/MyEventCustomisationForm.js | 1 Additions & 1 Deletions|
+| 5/30/2025, 2:49:06 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/30/2025, 2:49:06 PM | sequelize.js | 0 Additions & 1 Deletions|
+| 5/30/2025, 2:49:06 PM | services/emms.service.js | 1 Additions & 1 Deletions|
