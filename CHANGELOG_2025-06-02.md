@@ -10,3 +10,6 @@ This file logs the changes made on 6/2/2025.
 | 6/2/2025, 12:05:38 PM | api/controllers/screenusers.controller.js | 8 Additions & 8 Deletions|
 | 6/2/2025, 12:05:38 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 6/2/2025, 12:05:38 PM | server.js | 6 Additions & 0 Deletions|
+| 6/2/2025, 12:35:38 PM | api/controllers/screenusers.controller.js | 8 Additions & 8 Deletions|
+| 6/2/2025, 12:35:38 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 6/2/2025, 12:35:38 PM | server.js | 6 Additions & 0 Deletions|
