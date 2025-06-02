@@ -16,3 +16,6 @@ This file logs the changes made on 6/2/2025.
 | 6/2/2025, 1:05:38 PM | api/controllers/screenusers.controller.js | 8 Additions & 8 Deletions|
 | 6/2/2025, 1:05:38 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 6/2/2025, 1:05:38 PM | server.js | 6 Additions & 0 Deletions|
+| 6/2/2025, 1:19:55 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 6/2/2025, 1:19:55 PM | sequelize.js | 0 Additions & 1 Deletions|
+| 6/2/2025, 1:19:55 PM | services/emms.service.js | 1 Additions & 1 Deletions|
