@@ -13,3 +13,6 @@ This file logs the changes made on 6/3/2025.
 | 6/3/2025, 5:38:10 PM | api/controllers/screenusers.controller.js | 8 Additions & 8 Deletions|
 | 6/3/2025, 5:38:10 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 6/3/2025, 5:38:10 PM | server.js | 6 Additions & 0 Deletions|
+| 6/3/2025, 6:08:10 PM | api/controllers/screenusers.controller.js | 8 Additions & 8 Deletions|
+| 6/3/2025, 6:08:10 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 6/3/2025, 6:08:10 PM | server.js | 6 Additions & 0 Deletions|
