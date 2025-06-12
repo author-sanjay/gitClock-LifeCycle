@@ -20,3 +20,5 @@ This file logs the changes made on 6/12/2025.
 | 6/12/2025, 2:12:02 PM | server.js | 6 Additions & 0 Deletions|
 | 6/12/2025, 2:42:02 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
 | 6/12/2025, 2:42:02 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
+| 6/12/2025, 3:12:02 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
+| 6/12/2025, 3:12:02 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
