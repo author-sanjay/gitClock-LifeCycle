@@ -40,3 +40,6 @@ This file logs the changes made on 6/16/2025.
 | 6/16/2025, 5:39:04 PM | api/controllers/screenusers.controller.js | 8 Additions & 8 Deletions|
 | 6/16/2025, 5:39:04 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 6/16/2025, 5:39:04 PM | server.js | 6 Additions & 0 Deletions|
+| 6/16/2025, 8:41:00 PM | .env | 0 Additions & 5 Deletions|
+| 6/16/2025, 8:41:00 PM | controller/CredentialsController.js | 37 Additions & 2 Deletions|
+| 6/16/2025, 8:41:00 PM | middleware/jwtMiddleWare.js | 1 Additions & 1 Deletions|
