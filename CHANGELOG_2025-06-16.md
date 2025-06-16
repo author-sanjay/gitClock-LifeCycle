@@ -23,3 +23,5 @@ This file logs the changes made on 6/16/2025.
 | 6/16/2025, 2:39:04 PM | api/controllers/screenusers.controller.js | 8 Additions & 8 Deletions|
 | 6/16/2025, 2:39:04 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 6/16/2025, 2:39:04 PM | server.js | 6 Additions & 0 Deletions|
+| 6/16/2025, 3:09:04 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
+| 6/16/2025, 3:09:04 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
