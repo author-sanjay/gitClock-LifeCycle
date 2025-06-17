@@ -25,3 +25,4 @@ This file logs the changes made on 6/17/2025.
 | 6/17/2025, 1:07:48 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
 | 6/17/2025, 1:07:48 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 6/17/2025, 1:07:48 PM | server.js | 1 Additions & 0 Deletions|
+| 6/17/2025, 1:26:47 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
