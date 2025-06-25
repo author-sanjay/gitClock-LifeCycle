@@ -51,3 +51,6 @@ This file logs the changes made on 6/25/2025.
 | 6/25/2025, 1:52:05 PM | src/Screens/NavigatorSignage.jsx | 0 Additions & 3 Deletions|
 | 6/25/2025, 1:52:05 PM | src/Screens/NavigatorTemplateViewer.jsx | 1 Additions & 1 Deletions|
 | 6/25/2025, 1:52:05 PM | src/Screens/PlaylistRotator.jsx | 1 Additions & 2 Deletions|
+| 6/25/2025, 2:16:51 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 6/25/2025, 2:16:51 PM | sequelize.js | 0 Additions & 1 Deletions|
+| 6/25/2025, 2:16:51 PM | services/emms.service.js | 1 Additions & 1 Deletions|
