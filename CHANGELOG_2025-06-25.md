@@ -81,6 +81,10 @@ This file logs the changes made on 6/25/2025.
 | 6/25/2025, 4:25:42 PM | src/Screens/NavigatorSignage.jsx | 0 Additions & 3 Deletions|
 | 6/25/2025, 4:25:42 PM | src/Screens/NavigatorTemplateViewer.jsx | 1 Additions & 1 Deletions|
 | 6/25/2025, 4:25:42 PM | src/Screens/PlaylistRotator.jsx | 1 Additions & 2 Deletions|
-| 6/25/2025, 4:55:42 PM | logs/audit.json | 15 Additions & 15 Deletions|
-| 6/25/2025, 4:55:42 PM | sequelize.js | 0 Additions & 1 Deletions|
-| 6/25/2025, 4:55:42 PM | services/emms.service.js | 1 Additions & 1 Deletions|
+| 6/25/2025, 4:55:43 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
+| 6/25/2025, 4:55:43 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 6/25/2025, 4:55:43 PM | "src/Components/Manager Signage/TimeAndHotelName.js" | undefined Additions & undefined Deletions|
+| 6/25/2025, 4:55:43 PM | src/Components/ScreenSelect.jsx | 9 Additions & 15 Deletions|
+| 6/25/2025, 4:55:43 PM | src/Screens/NavigatorSignage.jsx | 0 Additions & 3 Deletions|
+| 6/25/2025, 4:55:43 PM | src/Screens/NavigatorTemplateViewer.jsx | 1 Additions & 1 Deletions|
+| 6/25/2025, 4:55:43 PM | src/Screens/PlaylistRotator.jsx | 1 Additions & 2 Deletions|
