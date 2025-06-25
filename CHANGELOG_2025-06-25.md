@@ -17,6 +17,8 @@ This file logs the changes made on 6/25/2025.
 | 6/25/2025, 11:52:05 AM | src/Components/ScreenSelect.jsx | 3 Additions & 10 Deletions|
 | 6/25/2025, 11:52:05 AM | src/Screens/NavigatorSignage.jsx | 0 Additions & 3 Deletions|
 | 6/25/2025, 11:52:05 AM | src/Screens/PlaylistRotator.jsx | 1 Additions & 2 Deletions|
-| 6/25/2025, 12:21:27 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
-| 6/25/2025, 12:21:27 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 6/25/2025, 12:21:27 PM | server.js | 12 Additions & 12 Deletions|
+| 6/25/2025, 12:22:05 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
+| 6/25/2025, 12:22:05 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 6/25/2025, 12:22:05 PM | src/Components/ScreenSelect.jsx | 8 Additions & 15 Deletions|
+| 6/25/2025, 12:22:05 PM | src/Screens/NavigatorSignage.jsx | 0 Additions & 3 Deletions|
+| 6/25/2025, 12:22:05 PM | src/Screens/PlaylistRotator.jsx | 1 Additions & 2 Deletions|
