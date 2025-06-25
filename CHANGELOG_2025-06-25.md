@@ -22,4 +22,6 @@ This file logs the changes made on 6/25/2025.
 | 6/25/2025, 12:22:05 PM | src/Components/ScreenSelect.jsx | 8 Additions & 15 Deletions|
 | 6/25/2025, 12:22:05 PM | src/Screens/NavigatorSignage.jsx | 0 Additions & 3 Deletions|
 | 6/25/2025, 12:22:05 PM | src/Screens/PlaylistRotator.jsx | 1 Additions & 2 Deletions|
-| 6/25/2025, 12:47:15 PM | src/components/contentAi/MyEventCustomisationForm.js | 1 Additions & 1 Deletions|
+| 6/25/2025, 12:51:28 PM | api/controllers/screenusers.controller.js | 4 Additions & 4 Deletions|
+| 6/25/2025, 12:51:28 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 6/25/2025, 12:51:28 PM | server.js | 12 Additions & 12 Deletions|
