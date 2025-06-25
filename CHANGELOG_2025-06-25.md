@@ -74,3 +74,10 @@ This file logs the changes made on 6/25/2025.
 | 6/25/2025, 3:55:43 PM | src/components/contentAi/EditPlaylistForm.js | 1 Additions & 1 Deletions|
 | 6/25/2025, 3:55:43 PM | src/components/contentAi/MyEventCustomisationForm.js | 1 Additions & 1 Deletions|
 | 6/25/2025, 3:55:43 PM | src/components/contentAi/MyPlaylistForm.js | 1 Additions & 1 Deletions|
+| 6/25/2025, 4:25:42 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
+| 6/25/2025, 4:25:42 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 6/25/2025, 4:25:42 PM | "src/Components/Manager Signage/TimeAndHotelName.js" | undefined Additions & undefined Deletions|
+| 6/25/2025, 4:25:42 PM | src/Components/ScreenSelect.jsx | 9 Additions & 15 Deletions|
+| 6/25/2025, 4:25:42 PM | src/Screens/NavigatorSignage.jsx | 0 Additions & 3 Deletions|
+| 6/25/2025, 4:25:42 PM | src/Screens/NavigatorTemplateViewer.jsx | 1 Additions & 1 Deletions|
+| 6/25/2025, 4:25:42 PM | src/Screens/PlaylistRotator.jsx | 1 Additions & 2 Deletions|
