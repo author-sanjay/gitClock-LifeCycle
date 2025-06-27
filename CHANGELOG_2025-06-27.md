@@ -76,3 +76,7 @@ This file logs the changes made on 6/27/2025.
 | 6/27/2025, 6:26:58 PM | config/default.json | 1 Additions & 1 Deletions|
 | 6/27/2025, 6:26:58 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 6/27/2025, 6:26:58 PM | server.js | 12 Additions & 12 Deletions|
+| 6/27/2025, 6:56:57 PM | api/controllers/screenusers.controller.js | 5 Additions & 5 Deletions|
+| 6/27/2025, 6:56:57 PM | config/default.json | 1 Additions & 1 Deletions|
+| 6/27/2025, 6:56:57 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 6/27/2025, 6:56:57 PM | server.js | 12 Additions & 12 Deletions|
