@@ -62,3 +62,4 @@ This file logs the changes made on 6/27/2025.
 | 6/27/2025, 4:15:22 PM | src/Screens/WelcomeScreen.js | 2 Additions & 0 Deletions|
 | 6/27/2025, 4:15:22 PM | src/store/store.js | 3 Additions & 1 Deletions|
 | 6/27/2025, 4:15:22 PM | src/store/Customisation.js | 0 Additions & 0 Deletions|
+| 6/27/2025, 4:36:46 PM | logs/audit.json | 5 Additions & 5 Deletions|
