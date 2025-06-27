@@ -23,3 +23,7 @@ This file logs the changes made on 6/27/2025.
 | 6/27/2025, 2:06:49 PM | config/default.json | 1 Additions & 1 Deletions|
 | 6/27/2025, 2:06:49 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 6/27/2025, 2:06:49 PM | server.js | 9 Additions & 9 Deletions|
+| 6/27/2025, 2:15:22 PM | src/Components/InputFields/TextInputField.js | 41 Additions & 28 Deletions|
+| 6/27/2025, 2:15:22 PM | src/Screens/WelcomeScreen.js | 2 Additions & 0 Deletions|
+| 6/27/2025, 2:15:22 PM | src/store/store.js | 3 Additions & 1 Deletions|
+| 6/27/2025, 2:15:22 PM | src/store/Customisation.js | 0 Additions & 0 Deletions|
